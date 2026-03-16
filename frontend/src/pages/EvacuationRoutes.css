@@ -1,0 +1,311 @@
+.evacuation-routes-page {
+  padding: 2rem;
+  background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+  min-height: 100vh;
+}
+
+.page-header h1 {
+  color: white;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+}
+
+.route-planner {
+  margin-bottom: 2rem;
+}
+
+.planner-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.planner-card h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+.input-group {
+  display: flex;
+  gap: 1rem;
+}
+
+.input-group input {
+  flex: 1;
+  padding: 1rem;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.btn-calculate {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.btn-calculate:hover {
+  transform: scale(1.05);
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: 350px 1fr;
+  gap: 2rem;
+}
+
+.left-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.hazards-section,
+.shelters-section {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.hazards-section h3,
+.shelters-section h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.hazard-card {
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+  border-left: 4px solid;
+}
+
+.severity-high {
+  background: #fee2e2;
+  border-color: #ef4444;
+}
+
+.severity-critical {
+  background: #fce7f3;
+  border-color: #ec4899;
+}
+
+.severity-medium {
+  background: #fef3c7;
+  border-color: #f59e0b;
+}
+
+.hazard-type {
+  font-weight: 600;
+  color: #333;
+}
+
+.hazard-location {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.severity-badge {
+  display: inline-block;
+  padding: 0.3rem 0.8rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: #333;
+  color: white;
+  margin-top: 0.5rem;
+}
+
+.shelter-card {
+  padding: 1rem;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.shelter-card:hover {
+  border-color: #667eea;
+  transform: translateX(5px);
+}
+
+.shelter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.shelter-header h4 {
+  margin: 0;
+  color: #333;
+}
+
+.distance-badge {
+  background: #dbeafe;
+  color: #1e40af;
+  padding: 0.3rem 0.8rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.shelter-capacity {
+  color: #666;
+  margin: 0.5rem 0;
+}
+
+.shelter-amenities {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.amenity-tag {
+  background: #f3f4f6;
+  padding: 0.3rem 0.8rem;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.right-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.map-container {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.map-placeholder {
+  height: 400px;
+  background: linear-gradient(135deg, #e0e7ff 0%, #cffafe 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  font-size: 1.5rem;
+  position: relative;
+}
+
+.map-info {
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.route-overlay {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  right: 1rem;
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.route-overlay h4 {
+  margin: 0 0 0.5rem 0;
+}
+
+.routes-list {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.routes-list h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.route-card {
+  padding: 1.5rem;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.route-card:hover {
+  border-color: #667eea;
+}
+
+.route-card.selected {
+  border-color: #667eea;
+  background: #f5f3ff;
+}
+
+.route-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.route-header h4 {
+  margin: 0;
+  color: #333;
+}
+
+.route-risk {
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.route-stats {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 1rem;
+  color: #666;
+}
+
+.route-description {
+  color: #666;
+  margin: 1rem 0;
+}
+
+.hazards-avoided {
+  background: #f0fdf4;
+  padding: 0.8rem;
+  border-radius: 8px;
+  color: #166534;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+
+.btn-start-navigation {
+  width: 100%;
+  background: linear-gradient(135deg, #4ade80 0%, #22c55e 100%);
+  color: white;
+  border: none;
+  padding: 1rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.btn-start-navigation:hover {
+  transform: scale(1.02);
+}

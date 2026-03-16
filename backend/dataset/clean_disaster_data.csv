@@ -1,0 +1,734 @@
+Location,Disaster Type,Disaster Subtype,Start Year,Total Deaths,Total Damage ('000 US$)
+Bengal,Drought,Drought,1900,1250000.0,
+Kangra,Earthquake,Ground movement,1905,20000.0,25000.0
+"Cuddalore, Pondicherry",Storm,Tropical cyclone,1916,300.0,
+Punjab province,Storm,Tropical cyclone,1924,1242.0,
+"Bezwada, Masulipatam",Storm,Tropical cyclone,1925,80.0,
+Bengal,Flood,Riverine flood,1926,,
+"Gujarat, Ahmedabad, Baroda",Storm,Tropical cyclone,1927,56.0,
+Nellore,Storm,Tropical cyclone,1927,629.0,
+"Godavari, Vizagapatnam",Flood,Flood (General),1928,36.0,
+"Madras, Negapatam",Storm,Storm (General),1935,100.0,
+Guntur (Madras),Storm,Tropical cyclone,1936,233.0,
+"Orissa, West Bengal",Storm,Tropical cyclone,1942,40000.0,
+"Calcutta, Bengal region",Drought,Drought,1942,1500000.0,
+Rajputana,Storm,Tropical cyclone,1943,5000.0,
+Madras,Storm,Storm (General),1943,,
+Assam,Storm,Tropical cyclone,1944,304.0,
+"Gujarat, Punjab",Storm,Tropical cyclone,1945,,
+Assam,Mass movement (wet),Landslide (wet),1948,500.0,
+"East & West Godavari districts, Masulipatnam",Storm,Tropical cyclone,1949,1000.0,
+Saurashtra,Flood,Riverine flood,1950,45.0,
+Assam province,Earthquake,Ground movement,1950,1500.0,20000.0
+West,Storm,Storm (General),1950,90.0,
+"Tanjore, Tiruchi",Storm,Tropical cyclone,1952,400.0,
+Punjab,Storm,Tropical cyclone,1955,1500.0,
+Tanjore,Storm,Tropical cyclone,1955,500.0,
+"Parganas, Midnapore (West Bengal)",Storm,Tropical cyclone,1956,,
+"Gujarat, Saurashtra, Kutch",Flood,Flood (General),1956,,
+"Bihar, Uttar Pradesh",Flood,Flood (General),1956,100.0,
+"Anjar, Bhuj, Gandhidham, Kandla",Earthquake,Ground movement,1956,113.0,
+"Madya Pradesh, Uttar Pradesh",Flood,Flood (General),1957,42.0,
+Vishakhapatam,Storm,Storm (General),1958,,
+Madras city,Flood,Flood (General),1958,5.0,
+Kutch,Flood,Flood (General),1959,17.0,
+"Maduri, Madras City",Flood,Flood (General),1960,5.0,
+North,Flood,Flood (General),1961,2000.0,
+"Central, West India",Flood,Flood (General),1961,,
+Uttar Pradesh,Flood,Flood (General),1961,57.0,
+"Punjab, Delhi, M.P.",Storm,Storm (General),1962,,
+"Orissa, Uttar Pradesh, Punjab",Storm,Storm (General),1963,200.0,
+"Assam, Bihar, Punjab",Flood,Flood (General),1964,145.0,
+Andhra Pradesh,Flood,Flood (General),1964,,500.0
+Rameswaram,Storm,Tropical cyclone,1964,500.0,
+"Rajasthan, center",Drought,Drought,1964,,
+Mysore,Drought,Drought,1964,,
+Nationwide except south,Drought,Drought,1965,1500000.0,100000.0
+"Manipur, Assam",Flood,Flood (General),1966,47.0,1400.0
+Madras state,Storm,Tropical cyclone,1966,18.0,4200.0
+North,Earthquake,Ground movement,1966,15.0,
+"North, Central",Flood,Flood (General),1967,300.0,
+Orissa,Storm,Tropical cyclone,1967,1000.0,
+"Maharashtra, Koynana",Earthquake,Ground movement,1967,177.0,400.0
+Assam,Flood,Flood (General),1968,,
+"(1) Rajasthan, Gujarat - (2) North-East, West Bengal, Assam",Flood,Flash flood,1968,4892.0,94200.0
+"Bihar, Bengal",Mass movement (wet),Landslide (wet),1968,1000.0,
+"Ramanathapurum, Thanjavur",Storm,Tropical cyclone,1968,7.0,
+"Guntur, Krishna, Godavari (Andhra Pradesh)",Storm,Tropical cyclone,1969,600.0,8330.0
+Kannaman,Storm,Storm (General),1969,15.0,
+Madras City,Storm,Storm (General),1969,,
+Andhra Pradesh,Storm,Tropical cyclone,1969,200.0,
+"North-East, Western, North",Flood,Flood (General),1970,627.0,101200.0
+Madras city (Tamil Nadu),Storm,Storm (General),1970,,
+"Gujarat, Orissa states",Flood,Flood (General),1970,400.0,
+Broach,Earthquake,Ground movement,1970,26.0,
+North,Flood,Flood (General),1971,1023.0,530000.0
+Uttar Pradesh,Flood,Flood (General),1971,300.0,
+"East coast, Orissa state",Storm,Tropical cyclone,1971,9658.0,30000.0
+"Bihar, West Bengal",Storm,Tropical cyclone,1971,60.0,
+"Brahmaputra, Dhemaji, North Lakhimpur, Jorhat, Tezpur sub-divisions",Flood,Flood (General),1971,,
+"Andhra Pradesh, Orissa",Storm,Tropical cyclone,1972,100.0,
+"Srinagar, Kashmir",Storm,Storm (General),1972,50.0,
+Madras City,Storm,Tropical cyclone,1972,80.0,
+Central,Drought,Drought,1972,,100000.0
+"Uttar Pradesh, Bihar",Extreme temperature,Cold wave,1973,115.0,
+"Bihar, Delhi",Extreme temperature,Cold wave,1973,146.0,
+"West Bengal, Madya Pradesh, Gujarat states",Storm,Tropical cyclone,1974,20.0,
+Midnapore,Storm,Tropical cyclone,1974,,
+"Tinsukia, Dhemaji, Nowgong, Majuli, Jorhat, Dhubri",Flood,Flood (General),1974,260.0,
+"Kinnaur district, Kashmir; Himachal Pradesh",Earthquake,Ground movement,1975,47.0,
+"Northwest, Bihar",Flood,Flood (General),1975,350.0,714259.0
+Eastern,Storm,Storm (General),1975,450.0,200000.0
+Bulandshar (Uttar Pradesh),Storm,Storm (General),1975,30.0,
+Gujarat,Storm,Storm (General),1975,21.0,
+Madras city,Storm,Tropical cyclone,1975,,
+"Midnapore, Parganas districts (West Bengal), Balasore district (Orissa)",Storm,Tropical cyclone,1976,40.0,
+Madras/Nellore (Andhra Pradesh),Storm,Tropical cyclone,1976,95.0,260000.0
+"Gujarat, Maharastra",Storm,Tropical cyclone,1976,87.0,3378.0
+"Krishna District, near Masulipatnam (Andhra Pradesh)",Storm,Tropical cyclone,1976,18.0,
+Between Nellore and Kavali (Andhra Pradesh),Storm,Tropical cyclone,1976,30.0,3378.0
+Ganges region,Flood,Riverine flood,1977,500.0,
+Tamil Nadu,Flood,Flood (General),1977,60.0,
+"Tamil Nadu, Andhra Pradesh, Kerala",Storm,Tropical cyclone,1977,14204.0,498535.0
+"North of Nellore district, South of Prakasam district (Andhra Pradesh)",Storm,Tropical cyclone,1977,2.0,
+Tamil Nadu,Epidemic,Viral disease,1978,45.0,
+New Delhi,Storm,Tornado,1978,26.0,
+Orissa,Storm,Tornado,1978,500.0,
+West Bengal,Storm,Tornado,1978,100.0,
+Uttar Pradesh,Epidemic,Viral disease,1978,48.0,
+"North, Northeast",Flood,Flood (General),1978,3800.0,165000.0
+West Bengal,Flood,Flood (General),1978,810.0,1000.0
+West Bengal,Epidemic,Bacterial disease,1978,113.0,
+Uttar Pradesh,Epidemic,Viral disease,1978,2000.0,
+Northeastern,Mass movement (wet),Landslide (wet),1978,64.0,
+"Tamil Nadu, Kerala",Storm,Tropical cyclone,1978,170.0,
+"Lahaul, Pangi",Mass movement (wet),Landslide (wet),1979,230.0,
+Bihar,Extreme temperature,Heat wave,1979,300.0,
+Andhra Pradesh,Storm,Tropical cyclone,1979,594.0,12800.0
+"North West, North, North East",Flood,Flood (General),1979,100.0,100000.0
+Rajasthan,Extreme temperature,Heat wave,1979,100.0,
+Uttar Pradesh,Mass movement (wet),Landslide (wet),1979,42.0,
+Assam,Flood,Flood (General),1979,13.0,
+Tamil Nadu,Flood,Flood (General),1979,140.0,
+"Uttar Pradesh, Bihar, West Bengal",Flood,Flood (General),1979,,
+Bihar,Epidemic,Bacterial disease,1979,215.0,
+Bihar,Extreme temperature,Cold wave,1980,79.0,
+Uttar Pradesh,Storm,Sand/Dust storm,1980,125.0,
+Uttar Pradesh,Mass movement (wet),Landslide (wet),1980,150.0,
+Assam,Flood,Flood (General),1980,,
+Madhya Pradesh,Epidemic,Bacterial disease,1980,390.0,
+Gujarat,Flood,Flood (General),1980,11.0,
+"Uttar Pradesh, Bihar, Gujarat, Kerala, Haryana",Flood,Flood (General),1980,1600.0,320000.0
+Jammu (Kashmir),Earthquake,Ground movement,1980,13.0,
+Orissa,Flood,Flood (General),1980,200.0,
+Northern,Epidemic,Viral disease,1980,400.0,
+"Srikakulam, Visakhapatnam, East & West Godavari districts (Andhra Pradesh)",Storm,Tropical cyclone,1980,28.0,
+Uttar Pradesh,Epidemic,Bacterial disease,1980,250.0,
+"Bihar, Uttar Pradesh states",Extreme temperature,Heat wave,1980,50.0,
+Northern,Extreme temperature,Cold wave,1981,300.0,
+Orissa,Storm,Tornado,1981,120.0,
+Gujarat,Storm,Storm (General),1981,470.0,
+"Orissa, West Bengal",Storm,Tropical cyclone,1981,200.0,
+"Puri, Ganjam, Koraput, Kalhandi, Phulbani, Sundergarh districts (Orissa state)",Storm,Tropical cyclone,1981,15.0,
+Northeast,Flood,Flood (General),1982,932.0,700000.0
+West Bengal,Epidemic,Viral disease,1982,118.0,
+"Gujarat, Maharashtra",Storm,Tropical cyclone,1982,500.0,625420.0
+Northern,Extreme temperature,Cold wave,1982,400.0,
+Orissa state,Storm,Tropical cyclone,1982,244.0,120000.0
+North-East region,Flood,Flood (General),1982,,
+"districts of Bhiwani, Gurgaon, Hisar, Mahendargarh, and Rohtak, Kerala, Tami Nadu, Rajasthan",Drought,Drought,1982,,
+West Bengal,Storm,Tropical cyclone,1983,76.0,
+West Bengal,Storm,Storm (General),1983,24.0,
+"Himachal Pradesh, Punjab",Storm,Storm (General),1983,31.0,25000.0
+Saurashtra coast (N-W. Gujarat),Storm,Tropical cyclone,1983,551.0,56000.0
+"Upper Assama, Central Sikkim",Flood,Flood (General),1983,197.0,
+Central - Western,Flood,Flood (General),1983,130.0,
+Sikkim,Mass movement (wet),Landslide (wet),1983,67.0,
+"Andhra Pradesh, Orissa",Storm,Tropical cyclone,1983,100.0,510000.0
+Tamil Nadu,Flood,Flood (General),1983,58.0,
+North-East states,Flood,Flood (General),1984,245.0,90000.0
+Jammu region,Wildfire,Forest fire,1984,,2000.0
+Uttar Pradesh,Epidemic,Bacterial disease,1984,60.0,
+"Tamil Nadu state + Chittoor, Nellore districts (Andhra Pradesh state)",Storm,Tropical cyclone,1984,524.0,35000.0
+Northeast,Extreme temperature,Cold wave,1984,290.0,
+Cachar district (Assam),Earthquake,Ground movement,1984,20.0,
+"Ravalaseema, Kerala, Tamil Nadu",Storm,Tropical cyclone,1984,,
+W Bengal State,Epidemic,Parasitic disease,1984,3290.0,
+"Gujarat, Karnataka States",Epidemic,Viral disease,1984,1160.0,
+"West Bengal, Uttar Pradesh, Assam, Bihar",Flood,Flood (General),1984,200.0,
+Ladakh area,Flood,Flash flood,1984,14.0,
+"W Bengal, Uttar Pradesh & Orissa",Flood,Flood (General),1984,245.0,
+North-East region,Flood,Flood (General),1984,36.0,
+Western,Epidemic,Viral disease,1985,55.0,
+"Delhi, Haryana, Uttar Pradesh, Rajasthan, Sikkim, Gujarat, Jammu and Kashmir, West Bengal, Chandigarh, Kerala, Orissa",Epidemic,Bacterial disease,1985,799.0,
+Punjab (Western),Flood,Flood (General),1985,133.0,
+"Uttar Pradesh, West Bengal, Punjab (North, North-West, East India)",Flood,Flood (General),1985,741.0,500000.0
+Bihar,Extreme temperature,Heat wave,1985,103.0,
+Eastern Uttar Pradesh,Epidemic,Viral disease,1985,1000.0,
+Andhra Pradesh,Storm,Tropical cyclone,1985,78.0,
+Tamil Nadu,Flood,Flood (General),1985,130.0,
+"Bihar, Uttar Pradesh, Jammu and Kashmir, Gujarat",Extreme temperature,Cold wave,1985,225.0,144000.0
+"Uttar Pradesh, Bihar",Flood,Riverine flood,1985,557.0,308000.0
+"Kerala, Assam, Bombay, Karnataka, Goa states",Flood,Riverine flood,1985,95.0,
+New Delhi,Epidemic,Bacterial disease,1986,55.0,
+Rajasthan state,Storm,Tropical cyclone,1986,11.0,
+South Bihar,Epidemic,Viral disease,1986,210.0,
+Uttar Pradesh,Storm,Storm (General),1986,71.0,
+Andhra Pradesh,Flood,Riverine flood,1986,187.0,100000.0
+"Calcutta, Midnapore district (West bengal)",Storm,Tropical cyclone,1986,13.0,272943.0
+Jammu and Kashmir State,Mass movement (wet),Avalanche (wet),1986,65.0,
+Cashmire,Storm,Blizzard/Winter storm,1986,65.0,
+"Uttar Pradesh, Himachal Pradesh",Mass movement (wet),Landslide (wet),1986,88.0,
+Dharmsala,Earthquake,Ground movement,1986,6.0,5000.0
+Rajasthan,Extreme temperature,Heat wave,1987,100.0,
+"Assam, Bihar, West Bengal",Flood,Riverine flood,1987,1200.0,545000.0
+"Andhra Pradesh, Tami Nadu",Storm,Tropical cyclone,1987,38.0,
+"Guntur, Prakasam district (Andhra Pradesh)",Storm,Tropical cyclone,1987,25.0,
+"Bihar, Uttar Pradesh",Storm,Storm (General),1987,63.0,
+Bihar,Storm,Storm (General),1987,40.0,
+Cachemire,Flood,Flood (General),1987,25.0,
+Andhra Pradesh,Flood,Flood (General),1987,30.0,
+Uttar Pradesh,Flood,Flood (General),1987,59.0,
+Kashmir,Epidemic,Viral disease,1987,90.0,
+"Gujarat, Rajasthan, Orissa, Madhya Pradesh, Andhra Pradesh, Maharashtra",Drought,Drought,1987,300.0,
+"Jammu and Kashmir, Ladakh",Mass movement (wet),Avalanche (wet),1988,250.0,
+"Northern, Western, Central India",Extreme temperature,Heat wave,1988,418.0,
+Rajasthan,Extreme temperature,Heat wave,1988,32.0,
+Delhi,Epidemic,Bacterial disease,1988,466.0,
+"Bihar, West Bengal, Assam",Flood,Riverine flood,1988,250.0,929200.0
+"Uttar Pradesh, Haryana, Himachal Pradesh, Pendjab states",Mass movement (wet),Landslide (wet),1988,255.0,
+Gujarat state,Epidemic,Bacterial disease,1988,445.0,
+"Dharbhanga, Madhubani, Saharsa, Munger, Khagana, Bihar Sharie (Bihar State)",Earthquake,Ground movement,1988,382.0,71500.0
+"Punjab, Himachal Pradesh, Haryana, Jamuu and Kashmir, Delhi",Flood,Riverine flood,1988,1000.0,18000.0
+Along Nepal/Uttar Pradesh border,Epidemic,Viral disease,1988,3000.0,
+West Bengal,Storm,Tropical cyclone,1988,74.0,13000.0
+"Uttar Pradesh, Assam, Bihar, West Bengal, Arunachal Pradesh",Flood,Flood (General),1988,850.0,
+"Maharashtra, Andhra Pradesh, Gujarat",Flood,Riverine flood,1989,1591.0,
+"Coastal Orissa, West Bengal",Storm,Tropical cyclone,1989,43.0,
+Southern India,Storm,Tropical cyclone,1989,50.0,
+Bihar,Extreme temperature,Cold wave,1989,109.0,
+"Assam, Arunachal Pradesh, Manipur, Mizorem",Flood,Riverine flood,1989,18.0,
+North India,Mass movement (dry),Landslide (dry),1989,45.0,
+"Guntur, Krishna, East and West Godavari, Visakhapatnam districts (Andhra Pradesh)",Storm,Tropical cyclone,1990,957.0,580000.0
+"Jammu, Kargil district (Kashmir)",Flood,Flash flood,1990,69.0,
+Golfe du Bengale,Storm,Severe weather,1990,500.0,
+Gujarat,Storm,Severe weather,1990,120.0,2200000.0
+Sikkim,Mass movement (wet),Landslide (wet),1990,30.0,
+Tami Nadu state,Flood,Riverine flood,1990,60.0,
+"North, West",Extreme temperature,Cold wave,1990,86.0,
+Ganjam district (Orissa),Storm,Tropical cyclone,1990,250.0,112800.0
+Bihar,Epidemic,Infectious disease (General),1990,90.0,
+Gujarat,Epidemic,Parasitic disease,1990,58.0,
+"Meghalaya, Manipur, Tinsukia",Storm,Storm (General),1990,16.0,
+"Haryana, Punjab, Jammu, Himachal Pradesh, Rajasthan states",Extreme temperature,Cold wave,1990,178.0,
+Bombay (Assam state),Flood,Riverine flood,1990,21.0,
+"Assam, Meghalaya states",Flood,Coastal flood,1991,59.0,
+"Bombay, Kerala, Gujarat",Flood,Riverine flood,1991,72.0,100000.0
+"Assam, Tripura, Arunachal, Mizorem",Flood,Coastal flood,1991,30.0,
+"Harsil (near Gangotri, Uttarkashi's Bhagirathi valley, Uttar Pradesh)",Earthquake,Ground movement,1991,1500.0,60000.0
+"Andhra Pradesh, Tamil Nadu, Pondicherry",Storm,Tropical cyclone,1991,125.0,
+Near Thondebhavi (Karnataka),Flood,Riverine flood,1991,60.0,
+Kerala state,Flood,Riverine flood,1991,99.0,118000.0
+"Andhra Pradesh, Maharashtra, Orissa, Gujarat, Madhya Pradesh",Flood,Riverine flood,1991,524.0,
+"Haryana, Uttar Pradesh, Himachal Pradesh, Bihar states",Flood,Riverine flood,1991,88.0,
+"Nagaon, Morigon districts (Assam)",Epidemic,Bacterial disease,1991,185.0,
+West Bengal state,Flood,Riverine flood,1991,84.0,40000.0
+"Uttar Pradesh, Jammu, Madhya Pradesh",Flood,Riverine flood,1992,500.0,57850.0
+Naogoan district (Assam state),Storm,Tropical cyclone,1992,25.0,
+"Vamanapuram, Amravilla (Trivadrum district, Kerala state)",Flood,Riverine flood,1992,51.0,182100.0
+"Kerala, Gujarat, Orissa states",Storm,Severe weather,1992,60.0,
+Aizawl (Mizoram state),Mass movement (wet),Landslide (wet),1992,60.0,
+Orissa state,Flood,Riverine flood,1992,16.0,
+"Tamil Nadu, Kerala, Karnataka, Andhra Pradesh states",Flood,Flood (General),1992,179.0,69000.0
+Bihar state,Extreme temperature,Cold wave,1992,275.0,
+"Punjab, Haryana, Himachal Pradesh, Gujarat, Jammu and Kashmir, Rajasthan, Madhya Pradesh, Chandigarh, Assam states",Flood,Flood (General),1993,827.0,7000000.0
+"Killari, Haegoan, Sostour, Holi (Latur and Osmanabad districts, Maharastra state)",Earthquake,Ground movement,1993,9748.0,280000.0
+"Tamil Nadu, Karaikal region (Pondicherry)",Storm,Tropical cyclone,1993,61.0,100000.0
+"Near Kandi (Murshidabad district, West Bengal)",Storm,Tropical cyclone,1993,125.0,
+Bombay,Mass movement (wet),Landslide (wet),1993,20.0,
+Karnataka state,Flood,Flash flood,1993,35.0,
+Uttar Pradesh,Flood,Riverine flood,1993,227.0,500000.0
+"Tripura, Karamganj (Assam)",Flood,Riverine flood,1993,,
+"Gujarat, Rajasthan states",Infestation,Locust infestation,1993,,
+Himachal Pradesh,Flood,Riverine flood,1993,175.0,
+Latur area,Earthquake,Ground movement,1993,,
+"Bihar, Orissa, Andhra Pradesh, Maharashtra, Gujarat, Madhya Prasdesh, Uttar Pradesh, Karnataka",Drought,Drought,1993,,
+"Assam, Arunachal Pradesh, Jammu and Kashmir, Himachal, Punjab, Uttar Pradesh, Goa, Kerala, Gujarat states",Flood,Flood (General),1994,2001.0,175000.0
+"Surat (Gujarat state), Beed (Maharashtra state)",Epidemic,Bacterial disease,1994,53.0,
+"Tamil Nadu, Andhra Pradesh, Karnataka states",Storm,Tropical cyclone,1994,208.0,19100.0
+"New Delhi, Rajasthan, Madhya Pradesh",Extreme temperature,Heat wave,1994,161.0,
+Mormugao,Storm,Tornado,1994,11.0,
+New Delhi,Flood,Riverine flood,1994,14.0,
+Kashmir province,Mass movement (wet),Avalanche (wet),1995,200.0,
+"Bihar, Punjab, Haryana and Jammu, Kashmir, Tamil Nadu, Maharashtra, Orissa, Uttar Pradesh, New Delhi, Rajasthan, Madhya Pradesh",Extreme temperature,Heat wave,1995,558.0,
+Mizoram State,Mass movement (wet),Landslide (wet),1995,40.0,4500.0
+Kulla (Himachal Pradesh),Mass movement (wet),Landslide (wet),1995,400.0,
+"Bihar, Haryana, Punjab, Rajasthan, Himachal Pradesh, Jammu and Kasmir, Uttar Pradesh, West Bengal, Maharashtra states",Flood,Riverine flood,1995,1479.0,258000.0
+"Orissa, Andra Pradesh",Storm,Tropical cyclone,1995,128.0,46300.0
+Andhra Pradesh,Storm,Tropical cyclone,1995,94.0,2000.0
+Sikkim state,Flood,Riverine flood,1995,35.0,252.0
+Andhra Pradesh,Flood,Riverine flood,1995,,2000.0
+"Andhra Pradesh, Karnataka, Kerala, West Begal, Tamil Nadu, Gujarat, Maharashtra, Uttar Pradesh, Assam, Haryana, Jammu and Kashmir, Rajasthan, Arunachal, Bihar, Tripura states",Storm,Tropical cyclone,1996,731.0,
+Oman Sea,Storm,Tropical cyclone,1996,92.0,
+Jammu & Kashmir state,Flood,Flood (General),1996,226.0,
+Uttar Pradesh,Flood,Flood (General),1996,21.0,
+"Karnataka, Andhra Pradesh, Maharashtra",Mass movement (wet),Landslide (wet),1996,48.0,
+New Delhi,Epidemic,Viral disease,1996,354.0,
+"Tamil Nadu, Andhra Pradesh, Kerala, Karnataka states",Flood,Riverine flood,1996,388.0,90400.0
+"East and West Godavari, Kakinada (Andhra Pradesh state)",Storm,Tropical cyclone,1996,708.0,1500300.0
+Andhra Pradesh,Storm,Tropical cyclone,1996,6.0,
+"West Bengal, Arunachal Pradesh, Assam",Flood,Riverine flood,1996,82.0,85000.0
+"Bihar, Assam, Gujarat, Haryana, Kerala, Rajasthan, Uttar Pradesh",Flood,Flood (General),1996,500.0,17600.0
+"Kishanganj, Darbhanga, Sitamarhi, Saharsa districts (Bihar state)",Flood,Riverine flood,1996,74.0,980.0
+Rajasthan,Drought,Drought,1996,,542400.0
+Jabalpur (Madhya Pradesh),Earthquake,Ground movement,1997,43.0,37000.0
+Gangtok (city) Level 1 = Sikkim,Mass movement (wet),Landslide (wet),1997,28.0,
+Darjeeling Hills Level 1 = West Bengal,Mass movement (wet),Landslide (wet),1997,23.0,
+"Chandigarh, Chirgaon, Himalayan state of Himachal Pradesh.",Flood,Riverine flood,1997,135.0,71000.0
+Coastal districts of West Bengal (no better info),Flood,Coastal flood,1997,400.0,
+Andhra Pradesh,Storm,Tropical cyclone,1997,25.0,
+"Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Gujarat, Himachal Pradesh, Jammu and Kashmir, Karnataka, Kerala, Maharashtra, Madyha Pradesh, Orissa, Punjab, Rajasthan, Sikkim, Uttar Pradesh, West Bengal states",Flood,Flood (General),1997,1442.0,
+"Mehsana, Gandhi Nagar, Ahmedabad, Kheda, Sabarkanda, Vadodra, Banaskanda, Surender Nagar districts (Gujarat state)",Flood,Riverine flood,1997,111.0,153800.0
+West,Flood,Flood (General),1997,244.0,
+Guntoor (Guntur) and Prakasham districts (Andhra Pradesh),Flood,Riverine flood,1997,25.0,
+"Valsad, Chikali and Gandevi (Valsad district) and Vyara and Mahuva taluks (Surat district)",Epidemic,Bacterial disease,1997,48.0,
+Lucknow (city) Level 1 = Uttar Pradesh,Epidemic,Viral disease,1997,,
+Kahool,Epidemic,Viral disease,1997,32.0,
+Himachal Pradesh,Mass movement (wet),Landslide (wet),1998,26.0,
+"Tanton, Jaleshwar (Midnapore, West Bengal), Balasore district (Orissa)",Storm,Tornado,1998,250.0,10000.0
+Assam,Mass movement (wet),Landslide (wet),1998,48.0,
+"Kutch, Porbandar, Jamnagar, Junagadh, Amreli, Bhavnagar, Banaskhanta, Surat, Bharuch, Rajkot, Valsad, Nasvari districts (Gujarat state), Barmer, Jallore districts (Rajasthan state), Ratnagiri district (Maharasthra)",Storm,Tropical cyclone,1998,2871.0,469000.0
+"Orissa, Andhra Pradesh, Rajasthan, Madhya Pradesh, Uttar Pradesh, Gujarat states",Extreme temperature,Heat wave,1998,2541.0,
+"Assam, Adilabad, Karimnaga - Level 1 = Andhra Pradesh, West Bangal",Epidemic,Bacterial disease,1998,679.0,
+"Malpa village (Pithoragrah district, Uttar Pradesh state)",Mass movement (wet),Landslide (wet),1998,239.0,
+Mansuna village (Uttar Pradesh state),Mass movement (wet),Landslide (wet),1998,37.0,
+Bombay (city) Level 1 = Maharashtra,Storm,Tropical cyclone,1998,250.0,
+Level 1 = Uttar Pradesh,Epidemic,Viral disease,1998,128.0,
+"West Begala, Midnapur dis.- Level 1 = Uttar Pradesh",Storm,Storm (General),1998,100.0,
+"Assam, Arunachal, Bihar, Kerala, Meghalaya, Punjab, Sikkim, Uttar Pradesh, West Bengal states",Flood,Flood (General),1998,1811.0,
+Sikkim,Mass movement (wet),Avalanche (wet),1998,24.0,
+"Gujarat, Maharashtra states",Flood,Flash flood,1998,90.0,
+"Andhra Pradesh, Hyderabad",Flood,Flood (General),1998,230.0,528600.0
+"Uttar Pradesh, Bihar, Rajasthan, Jammu and Cachemire states",Extreme temperature,Cold wave,1998,100.0,
+"Chamoli, Rudraprayag, Bageshwar (new district), Tehri Garhwal, Pauri Garhwal district",Earthquake,Ground movement,1999,100.0,2000.0
+"Garhwal & Kumaon (districts of Nainital, Almora and Pithoragarh) Level 1 = Uttar Pradesh",Wildfire,Forest fire,1999,6.0,
+"Orissa, Andhra Pradesh, Gujurat, Uttar Pradesh",Extreme temperature,Heat wave,1999,140.0,
+Gujarat Coast,Storm,Tropical cyclone,1999,451.0,20000.0
+"Assam, Bihar, Gujarat, Karnataka, Kerala, Tripura, West Bengal, Arunachal Pradesh, Punjab",Flood,Riverine flood,1999,325.0,
+"Uttar Pradesh, Bihar, West Bengal, Madhya Prasdeh, Delhi",Flood,Flood (General),1999,229.0,2400.0
+"Orissa, Ganjam, Puri, Khurda, Gajapathi",Storm,Tropical cyclone,1999,84.0,470000.0
+"Kendrapara, Jagatsinghpur, Khurda, Puri, Cuttack, Nayagarh, Bhadrak, Keonjhar, Dhenkanal, Balasore, Mayurbhang, Jajapur (Orissa, Andhra Pradesh, West Bengal states)",Storm,Tropical cyclone,1999,9843.0,2500000.0
+"Khanpur, Jhalawar district, Level 1 = Delhi & Rajahastan",Epidemic,Viral disease,1999,,
+Masarkal,Epidemic,Parasitic disease,1999,1.0,
+"Tehri Garhwal Disrict, Level 1 = Uttar Pradesh",Epidemic,Infectious disease (General),1999,11.0,
+Orissa,Epidemic,Infectious disease (General),1999,69.0,
+Andhra Pradesh,Epidemic,Viral disease,1999,200.0,
+"Bihar, Uttar Pradesh, West Bengal provinces",Extreme temperature,Cold wave,2000,275.0,
+"Gonda, Banda districts (Uttar Pradesh)",Epidemic,Viral disease,2000,84.0,
+Delhi,Epidemic,Bacterial disease,2000,,
+Andhra Pradesh province,Storm,Tropical cyclone,2000,,
+"Yingkiang,Tuting villages (Upper Siang (70051) district, Arunachal Pradesh province), Along, Boleng villages (70054 district, Arunachal Pradesh province), Pasighat, Sika-bamin, Komlighat, Raneghat (70041 district, Arunachal Pradesh province), Tezu, Mahadevpur villages (Lohit district, Arunachal Pradesh province), Golaghat, Nagaon districts (Assam province), ",Flood,Flash flood,2000,20.0,
+"Moradabad, Bijnor districts (Uttar Pradesh province), Uttarakhand province",Mass movement (wet),Landslide (wet),2000,43.0,
+"Ghatkopar village (Mumbai Suburban district, Maharashtra province)",Mass movement (wet),Landslide (wet),2000,58.0,
+"East Siang, 70041, West Siang, 70054, Upper Siang (70051), 70045, 70050, Lower Dibang Valley districts (Arunachal Pradesh province)",Flood,Flash flood,2000,130.0,
+"Katihar, Sitamarhi districts (Bihar province), Kinnaur district (Himachal Pradesh province), Bankura, Barddhaman, Birbhum, Haora, Hugli, Maldah, Murshidabad, Nadia, North 24 Parganas, West Midnapore districts (West Bengal province), Pithoragarh, Naini Tal districts (Uttarakhand province), Ahmadabad district (Gujarat province), Andhra Pradesh, Assam, Arunachal Pradesh, Madhya Pradesh, Punjab, Uttar Pradesh, Maharashtra, Rajasthan, Chandigarh, Kerala",Flood,Riverine flood,2000,867.0,43000.0
+"Mumbai, Thane districts",Epidemic,Bacterial disease,2000,27.0,
+"Pithoragarh, Naini Tal districts (Uttarakhand province)",Mass movement (wet),Landslide (wet),2000,86.0,
+"Adilabad, Cuddapah, East Godavari, Guntur, Hyderabad, Karimnagar, Khammam, Krishna, Kurnool, Mahbubnagar, Medak, Nalgonda, Nellore, Nizamabad, Prakasam, Rangareddi, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",Flood,Flash flood,2000,179.0,173000.0
+Uttar Pradesh,Epidemic,Viral disease,2000,34.0,
+"Birbhum, Bardhaman, Murshidabad, Maldah districts (West Bengal province), Dumka, Sahibganj, Deoghar districts (Jharkhand province), Banka, Bhagalpur, Munger, Sheikhpura districts (Bihar province)",Flood,Riverine flood,2000,884.0,691500.0
+West Bengal,Epidemic,Infectious disease (General),2000,51.0,
+Andhra Pradesh state,Epidemic,Viral disease,2000,14.0,
+North 24 Parganas district (West Bengal province),Flood,Flood (General),2000,6.0,
+"Nagappattinam, Thanjavur, Sirkali, Papanasam, Tiruvallur, Tiruvarur areas (Cuddalore district, Tamil Nadu province), Andhra Pradesh province",Storm,Tropical cyclone,2000,,
+Supaul district (Bihar),Epidemic,Viral disease,2000,13.0,
+Nawadah district (Bihar),Epidemic,Viral disease,2000,19.0,
+"New Delhi city (Delhi province), Gujarat, Rajasthan, Madhya Prasdesh, Andhra Pradesh, Orissa, Maharashtra provinces",Drought,Drought,2000,20.0,588000.0
+"Uttar Pradesh, Bihar, Punjab provinces",Extreme temperature,Cold wave,2001,125.0,
+"Ahmadabad, Amreli, Anand, Banas Kantha, Bharuch, Bhavnagar, Dahdod, Gandhinagar, Jamnagar, Junagadh, Kachchh, Kheda, Mahesana, Navsari, Patan, Porbandar, Rajkot, Sabar Kantha, Surat, Surendranagar, Vadodara districts (Gurajat province)",Earthquake,Ground movement,2001,20005.0,2623000.0
+Siliguri (West Bengal),Epidemic,Infectious disease (General),2001,28.0,
+"Silchar city (Cachar district, Assam province), Patharkandi village (Karimganj district, Assam province), West Tripura district (Tripura province)",Flood,Riverine flood,2001,5.0,
+"Mumbai, Thane",Epidemic,Bacterial disease,2001,16.0,
+"Marshagal, Mahakalpada villages (Kendrapara district, Orissa province), Kakatpur, Astaranga, Kanas, Delanga villages (Puri district, Orissa province), Banki, Kantapada villages (Cuttack district, Orissa province), Balipatna villages (Khordha district, Orissa province), Atharmalik villages (Angul district, Orissa province), Jajpur, Jagatsinghpur, Kalahandi, Koraput, Bolangir, Nayagarh, Baleshwar, Bhadrak districts (Orissa province), Dhamtari, Raipur, Mahasamund, Janjgir-Champa, Raigarh districts (Chhattisgarh province)",Flood,Riverine flood,2001,100.0,90000.0
+Uttar Pradesh province,Storm,Lightning/Thunderstorms,2001,21.0,
+"Hosdurg borough (Kanhangad city, Kasaragod district, Kerala province), Vertak Nagar area (Thane district, Maharashtra province), Bhandup area (Mumbai Suburban district, Maharashtra province)",Flood,Flood (General),2001,28.0,
+"Idukki, Kottayam, Pattanamtitta, Kollam, Alappuzha districts (Kerala province)",Flood,Riverine flood,2001,86.0,116924.0
+Orissa State,Epidemic,Bacterial disease,2001,33.0,
+Rudra Prayag district (Uttarakhand province),Mass movement (wet),Landslide (wet),2001,27.0,
+Orissa state,Epidemic,Parasitic disease,2001,12.0,
+"Aurangabad, Bhojpur, Gopalganj, Jehanabad, Muzaffarpur, Nalanda, Pashchim Champaran, Patna, Purba Champaran, Rohtas, Saran, Sitamarhi, Siwan, Vaishali districts (Bihar province)",Flood,Riverine flood,2001,,
+Chamba district (Himachal Pradesh province),Mass movement (wet),Landslide (wet),2001,16.0,
+Delhi province,Flood,Flood (General),2001,10.0,
+"Gopalganj, Purba Champaran, Pashchim Champaran, Muzaffarpur, Vaishali, Saran districts (Bihar province)",Flood,Flood (General),2001,158.0,26000.0
+"Saran, Gopalganj, Purba Champaran, Madhubani districts (Bihar province), Uttar Pradesh province",Flood,Flash flood,2001,48.0,26000.0
+Andhra Pradesh province,Storm,Tropical cyclone,2001,78.0,
+"Amboori village (Thiruvananthapuram district, Kerala province)",Mass movement (wet),Landslide (wet),2001,55.0,
+"Uttar Pradesh, Rajasthan provinces",Extreme temperature,Cold wave,2001,48.0,
+"Gujarat, Goa, Maharashtra, Kerala provinces",Storm,Tropical cyclone,2001,,
+"Saran, Gopalganj districts (Bihar province)",Flood,Flood (General),2001,146.0,103000.0
+Mandi district,Epidemic,Viral disease,2002,,
+West Bengal province,Storm,Tropical cyclone,2002,9.0,416.0
+Orissa province,Storm,Hail,2002,,
+"Madhya Pradesh, Andhra Pradesh, Uttar Pradesh, Delhi, Rajasthan, Punjab, Haryana, Orissa, West Bengal provinces",Extreme temperature,Heat wave,2002,1030.0,
+Assam,Epidemic,Parasitic disease,2002,50.0,
+"Gobalpur area (Hugli district, West Bengal), Kolkata, Jalpaiguri, Darjiling districts (West Bengal province)",Storm,Lightning/Thunderstorms,2002,11.0,
+"Barpeta, Bongaigaon, Cachar, Darrang, Dhemaji, Dhuburi, Dibrugarh, Goalpara, Golaghat, Jorhat, Kamrup, Karimganj, Kokrajhar, Lakhimpur, Marigaon, Nagaon, Nalbari, Sibsagar, Sonitpur, Tinsukia districts (Assam province), Araria, Begusarai, Bhagalpur, Darbhanga, Gopalganj, Katihar, Khagaria, Kishanganj, Madhepura, Madhubani, Muzaffarpur, Nalanda, Pashchim Champaran, Patna, Pruba Champaran, Purnia, Saharsa, Samastipur, Saran, Sheikhpura, Sheohar, Sitamarhi, Siwan, Supaul districts (Bihar province), Lahul and Spiti district (Himachal Pradesh province), Balaghat district (Madhya Pradesh province), Tehri Garhwal district (Uttarakhand province), Adilabad, Khammam, Karimnagar districts (Andhra Pradesh province), Jalpaiguri, Kochbihar, Darjiling districts (West Bengal province), Meghalaya, Tripura, Arunachal Pradesh, Gujarat, Kerala, Manipur, Maharashrta provinces",Flood,Riverine flood,2002,549.0,30772.0
+"Tehri Garhwal district (Uttaranchal province), Bihar, Assam, Manipur provinces",Flood,Riverine flood,2002,33.0,20000.0
+Assam,Epidemic,Viral disease,2002,86.0,
+Balaghat district (Madhya Pradesh province),Flood,Riverine flood,2002,100.0,
+"Bharuch district (Gujarat province), Jalgaon, Nasik districts (Maharashtra province)",Flood,Riverine flood,2002,22.0,
+Andaman Islands district (Andaman and Nicobar province),Earthquake,Ground movement,2002,2.0,
+"Kannur, Kasaragod, Kozhikode, Malappuram, Thiruvananthapuram districts (Kerala province)",Flood,Riverine flood,2002,11.0,
+"Baleshwar, Bhadrak, Jagatsinghpur, Kendrapara districts (Orissa province), East Midnapore, North 24 Parganas, South 24 Parganas (West Bengal province)",Storm,Tropical cyclone,2002,124.0,
+"Chennai, Coimbatore, Cuddalore districts (Tamil Nadu province",Flood,Flood (General),2002,20.0,
+Saharanpur (Uttar Pradesh),Epidemic,Infectious disease (General),2002,44.0,
+"Bihar, Uttar Pradesh, Himachal Pradesh, Rajasthan, Jharkhand, Jammu and Kashmir, Punjab, Haryana, Delhi provinces",Extreme temperature,Cold wave,2002,900.0,
+"Uttar Pradesh, Madhya Pradesh, Rajasthan, Punjab, Haryana, Delhi, Karnataka, Kerala, Nagaland, Orissa, Chhattisgarh, Himachal Pradesh, Gujarat, Maharashtra, Andhra Pradesh, Tamil Nadu provinces",Drought,Drought,2002,,910722.0
+Betul district (Madhya Pradesh province),Storm,Storm (General),2003,20.0,
+"Jammu and Kashmir (40424 to 40431), Punjab, Haryana provinces",Storm,Storm (General),2003,14.0,
+Gujarat province,Storm,Tropical cyclone,2003,5.0,
+"Bankura, Hugli, Haora districts (West Bengal province)",Storm,Hail,2003,30.0,16000.0
+Administrative unit not available district (Jammu and Kashmir province),Mass movement (wet),Avalanche (wet),2003,25.0,
+"Chirakhawa, Chirakhawa Topopara, Peepulbari part 1, Peepulbari part 2, Bhurakata, Baliabeel, Bengerbhita, Baushkata areas (Dhuburi district, Assam province)",Storm,Tropical cyclone,2003,45.0,
+"Mekhliganj, Haldibari, Fukaldabri, Nijtaraf, Kasiabari, Bholarhat, Beltali areas (Kochbihar district, West Bengal province)",Storm,Tropical cyclone,2003,,
+"Andhra Pradesh, Orissa, Tamil Nadu, Vidarbha (=part of Maharashtra), Chhattisgarh, Jharkland, Uttar Pradesh, Rajasthan, Madhya Pradesh, Bihar provinces",Extreme temperature,Heat wave,2003,1210.0,400000.0
+"Assam, Bihar, Tripura, West Bengal provinces",Flood,Riverine flood,2003,142.0,
+"Khavda, Banni, Natkharana, Lakhpat villages (Kachchh district, Gujarat province)",Flood,Riverine flood,2003,13.0,
+Delhi,Epidemic,Viral disease,2003,,
+"Krishna, Guntur, West Godavari districts (Andhra Pradesh province)",Storm,Tropical cyclone,2003,50.0,28000.0
+"Uttar Pradesh, Himachal Pradesh, Haryana, Jammu and Kashmir provinces",Extreme temperature,Cold wave,2003,400.0,
+"Cuttack, Jagatsinghpur, Kendrapara, Jajpur, Puri, Bolangir, Sonepur, Kalahandi, Rayagada, Gajapati, Baragarh, Koraput, Nayagarh, Ganjam, Angul districts (Orissa province)",Flood,Riverine flood,2003,67.0,169000.0
+Kullu district (Himachal Pradesh province),Flood,Flash flood,2003,150.0,
+"Solang village (Kullu district, Himachal Pradesh)",Flood,Flash flood,2003,43.0,
+Uttar Pradesh province,Flood,Riverine flood,2003,37.0,
+"Leimapokpam, Thiyam, Lourembam, Nambol Laitonjam villages (Bishnupur district, Manipur province), Na-Orem, Pukhrambam, Sanjenbam villages (West Imphal district, Manipur province), Oinam, Khangabok villages (Thoubal district, Manipur province)",Flood,Riverine flood,2004,,
+"Darbhanga, Madhubani, Sitamarhi, Banka, Bhagalpur, Muzaffarpur, Sheohar districts (Bihar province), West Tripura, South Tripura districts (Tripura province), Kamrup, Nalbari, Darrang, Sonitpur, Dhemaji, Lakhimpur districts (Assam province), Gujarat, Jammu and Kashmir provinces",Flood,Riverine flood,2004,900.0,2500000.0
+"Wayanad, Kozhikode, Kannur, Kasaragod districts (Kerala province)",Flood,Riverine flood,2004,45.0,
+"Uttar Pradesh, Himachal Pradesh provinces",Flood,Flash flood,2004,33.0,
+"Goalpara district (Assam province), Meghalaya, Arunachal Pradesh, West Bengal provinces",Flood,Flash flood,2004,160.0,
+"Kancheepuram, Villupuram, Nagapattinam, Thoothukudi, Tirunelveli Kattabo, Kanniyakumari, Chennai, Thiruvallur, Cuddalore, Pudukkottai, Ramanathapuram, Sivaganga, Thanjavur districts (Tamil Nadu province), Vishakhapatnam, East Godavari, West Godavari, Krishna, Guntur, Prakasam, Nellore districts (Andhra Pradesh province), Kollam, Alappuzha, Ernakulam districts (Kerala province), Puducherry, Karaikal district (Puducherry province), Andaman and Nicobar province",Earthquake,Tsunami,2004,16389.0,1022800.0
+"Uttarakhand, Gujarat, Maharashtra, Punjab, Haryana, Rajasthan provinces",Flood,Riverine flood,2004,210.0,276000.0
+Administrative unit not available districts (Jammu and Kashmir province),Mass movement (wet),Avalanche (wet),2005,250.0,50000.0
+"Barddhaman, North 24 Parganas, South 24 Parganas districts (West Bengal province)",Storm,Storm (General),2005,18.0,
+"Delhi, Haryana, Chandigarh, Uttar Pradesh, Uttaranchal",Epidemic,Bacterial disease,2005,48.0,
+"Guntur, Krishna, Srikakulam, Karimnagar, Nalgonda districts (Andhra Pradesh province)",Storm,Storm (General),2005,20.0,
+Kolkata district (West Bengal province),Storm,Storm (General),2005,11.0,
+Mokokchung district (Nagaland province),Flood,Riverine flood,2005,14.0,
+"Uttar Pradesh, Bihar, West Bengal, Orissa, Maharashtra, Andhra Pradesh provinces",Extreme temperature,Heat wave,2005,329.0,
+"Surat, Valsad, Navsari, Bharuch, Vadodara, Surendranagar, The Dangs, Ahmedabad, Anand, Kheda, Amreli, Bhavnagar, Junagadh, Rajkot, Narmada, Jamnagar, Gandhinagar, Sabarkantha districts (Gujarat province)",Flood,Riverine flood,2005,239.0,2300000.0
+"Digras, Nandgavan villages (Yavatmal district, Maharashtra province)",Flood,Riverine flood,2005,25.0,
+"Sangla, Kalpa, Yangthang, Sumdo, Khab, Karcham, Leo, Akpa, Kharo villages (Kinnaur district, Himachal Pradesh province), Rampur Bushahr village (Shimla district, Himachal Pradesh province), Kullu, Bilaspur, Mandi districts (Himachal Pradesh)",Flood,Riverine flood,2005,6.0,23000.0
+"Yingkiong village (Upper Siang (70051) district, Arunachal Pradesh province), Seppa village (East Kameng (70040) district, Arunachal Pradesh province), Anini village (70050 district, Arunachal Pradesh province), Dibrugarh, Sonitpur, Sibsagar, Dhemaji, Tinsukia, Karimganj, Lakhimpur, Jorhat, Morigaon, Dhuburi, Goalpara, Barpeta districts (Assam province), Bahraich, Shravasti, Banda, Ballia, Lakhimpur Kheri, Kanpur, Varanasi, Mainpuri districts (Uttar Pradesh province), Haridwar, Uttarkashi, Naini Tal, Dehran Dun districts (Uttarakhand province), Muzaffarpur, Darbhanga, Madhubani districts (Bihar province), Birbhum district (West Bengal province)",Flood,Riverine flood,2005,70.0,
+"Ashoknagar, Chhatarpur, Damoh, Jabalpur, Katni, Narsinghpur, Panna, Rewa, Sagar, Satna districts (Madhya Pradesh province)",Flood,Riverine flood,2005,62.0,
+"Adilabad, Hyderabad, Karimnagar, Khammam, Mahbubnagar, Medak, Nalgonda, Nizamabad, Rangareddi, Warangal, East Godavari, Guntur, Krishna, Nellore, Prakasam, Srikakulam, Vishakhapatnam, Vizianagaram, West Godavari districts (Andhra Pradesh province)",Flood,Riverine flood,2005,12.0,
+"Gujarat, Madhya Pradesh, Maharashtra, Goa, Orissa, Karnataka, Himachal Pradesh, Jammu and Kashmir provinces",Flood,Riverine flood,2005,1200.0,3330000.0
+"Guwahati city (Kamrup district, Assam province)",Mass movement (wet),Landslide (wet),2005,12.0,
+Azamgarh district (Uttar Pradesh province),Flood,Flash flood,2005,27.0,
+"Uttar Pradesh, Bihar",Epidemic,Viral disease,2005,296.0,
+Maharashtra state,Epidemic,Bacterial disease,2005,110.0,
+"Karnataka, Andhra Pradesh provinces",Flood,Riverine flood,2005,126.0,
+"Andhra Pradesh, Orissa provinces",Storm,Storm (General),2005,33.0,
+"Himachal Pradesh, Uttar Pradesh, Uttarakhand provinces",Flood,Riverine flood,2005,23.0,
+"Raj Nandgaon, Durg districts (Chhattisgarh province), Baleshwar, Bhadrak, Jajpur districts (Orissa province), Bhandara, Gondiya, Nagpur districts (Maharashtra province), Balaghat, Katni, Jabalpur, Seoni districts (Madhya Pradesh province)",Flood,Riverine flood,2005,89.0,420000.0
+Administrative unit not available districts (Jammu and Kashmir province),Earthquake,Ground movement,2005,1309.0,1000000.0
+"East Midnapore, South 24 Parganas, Barddhaman, Nadia districts (West Bengal province), Baleshwar district (Orissa province)",Flood,Riverine flood,2005,19.0,117000.0
+"Surat, Vadodara, Bhavnagar, Panch Mahals, Narmada districts (Gujarat province)",Flood,Riverine flood,2005,15.0,
+"Salem, Namakkal, Karur, Erode, Tiruchchirappalli, Vellore, Perambalur, Nagapattinam, Kanniyakumari, Dharmapuri, Madurai, Villupuram, Chennai, Cuddalore districts (Tamil Nadu province), Karaikal district (Puducherry province), Bangalore Rural, Bangalore Urban, Mysore districts (Karnataka province), Nellore, Chittoor, Vishakhapatnam, Srikakulam, Vizianagaram, Cuddapah districts (Andhra Pradesh province), West Bengal, Orissa provinces",Flood,Riverine flood,2005,162.0,
+Uttar Pradesh and Bihar states,Epidemic,Viral disease,2005,296.0,
+Tamil Nadu province,Flood,Riverine flood,2005,30.0,
+"Uttar Pradesh, Punjab, Haryana, Himachal Pradesh, Delhi, Bihar, Rajasthan, Jammu and Kashmir provinces",Extreme temperature,Severe winter conditions,2005,180.0,
+"Himachal Pradesh, Punjab, Jammu and Kashmir, Haryana provinces",Flood,Riverine flood,2005,10.0,
+"Andhra Prasdesh, Maharashtra, Karnataka states",Epidemic,Viral disease,2005,,
+"Adilabad, Hyderabad, Karimnagar, Khammam, Mahbubnagar, Medak, Nalgonda, Nizamabad, Rangareddi, Warangal, Srikakulam, Krishna districts (Andhra Pradesh province)",Flood,Flash flood,2006,20.0,
+"Uttar Pradesh, Orissa, Punjab, Delhi provinces",Extreme temperature,Heat wave,2006,47.0,
+"Assam, Tripura provinces",Flood,Riverine flood,2006,21.0,
+Kerala province,Flood,Riverine flood,2006,32.0,
+"Maharashtra, Gujarat provinces",Flood,Riverine flood,2006,41.0,
+"Ballia, Chandauli districts (Uttar Pradesh province)",Flood,Riverine flood,2006,130.0,
+"Navsari, The Dangs districts (Gujarat)",Flood,Riverine flood,2006,24.0,
+"Gajapati, Rayagada districts (Orissa province)",Flood,Riverine flood,2006,33.0,
+Jammu and Kashmir provinces,Flood,Riverine flood,2006,15.0,
+"Andhra Pradesh, Gujarat, Maharashtra, Chhattisgarh, Rajasthan, Madhya Pradesh, Orissa, Karnataka provinces",Flood,Riverine flood,2006,350.0,3390000.0
+Gujarat province,Flood,Riverine flood,2006,,
+"Barmer, Jaisalmer, Kota, Udaipur districts (Rajasthan province)",Flood,Riverine flood,2006,135.0,
+"Andhra Pradesh, West Bengal, Bihar provinces",Storm,Tropical cyclone,2006,114.0,
+Jammu and Kashmir provinces,Flood,Flash flood,2006,19.0,
+"Balrampur, Bahraich, Lakhimpur Kheri, Shravasti, Gonda, Bara Banki districts (Uttar Pradesh province)",Flood,Riverine flood,2006,42.0,
+"Tamil Nadu, Andhra Pradesh provinces",Flood,Riverine flood,2006,47.0,
+"Orissa, Andhra Pradesh, Chhattisgarh provinces",Flood,Riverine flood,2006,185.0,
+"Madhya Pradesh, Maharashtra, Rajasthan provinces",Flood,Riverine flood,2006,61.0,
+Madhya Pradesh province,Flood,Flash flood,2006,39.0,
+"Uttar Pradesh, Gujarat provinces",Storm,Lightning/Thunderstorms,2006,76.0,
+"Uttar Pradesh, Rajasthan, Punjab, Delhi provinces",Extreme temperature,Heat wave,2007,72.0,
+"Lakhimpur, Dhemaji, Cachar, Karimganj, Hailakandi, Darrang, Dibrugarh districts (Assam province)",Flood,Riverine flood,2007,15.0,
+"Junagadh district (Daman and Diu province), Amreli, Bhavnagar, Jamnagar, Junagadh, Porbandar, Rajkot, Surendranagar districts (Gujarat province), Rajasthan, Madhya Pradesh",Flood,Riverine flood,2007,225.0,
+"Amravati, Mumbai City, Mumbai Suburban, Raigarh, Ratnagiri, Sindhudurg, Thane districts (Maharashtra province)",Flood,Riverine flood,2007,62.0,
+"Raipur, Bilaspur, Mahasamund, Durg districts (Chhattisgarh province)",Flood,Riverine flood,2007,29.0,
+"Kurnool, Mahbubnagar, Guntur, Prakasam, East Godavari, West Godavari, Anantapur, Cuddapah districts (Andhra Pradesh province), Thrissur district (Kerala province), Belgaum, Bijapur, Bagalkot, Kodagu, Hassan, Mysore districts (Karnataka province), Mumbai City, Pune districts (Maharashtra province)",Flood,Flash flood,2007,127.0,
+"Udaipur, Amarpur cities (South Tripura district, Tripura province), Sonamura citiy (West Tripura district, Tripura province)",Flood,Riverine flood,2007,,
+"Bihar, Uttar Pradesh, Assam, Orissa, West Bengal provinces",Flood,Riverine flood,2007,1103.0,
+Himachal Pradesh province,Flood,Riverine flood,2007,76.0,
+Gujarat province,Flood,Riverine flood,2007,16.0,
+"Baleshwar, Kendrapara, Bhadrak, Jagatsinghpur, Jajpur, Mayurbhanj, Khordha, Cuttack, Puri, Kandhamal districts (Orissa province), Kolkata, South 24 Parganas, East Midnapore, West Midnapore, Hughli districts (West Bengal province)",Flood,Coastal flood,2007,80.0,275000.0
+"Kurnool, Cuddapah, Warangal, Nalgonda, Karimnagar, Mahbubnagar, Anantapur, Nellore, Krishna districts (Andhra Pradesh province), Gadag district (Karnataka province)",Flood,Riverine flood,2007,94.0,
+"Andhra Pradesh, Tamil Nadu province",Flood,Riverine flood,2007,29.0,
+"West Bengal, Orissa provinces",Storm,Tropical cyclone,2007,,
+"Cuttack, Puri, Khordha, Jajpur, Jagatsinghpur districts (Orissa province)",Flood,Riverine flood,2007,15.0,
+"Assam, Arunachal Pradesh, Meghalaya, Manipur provinces",Flood,Riverine flood,2007,96.0,
+Kerala province,Flood,Riverine flood,2007,44.0,101151.0
+"Uttar Pradesh, Jammu and Kashmir, Gujarat provinces",Extreme temperature,Cold wave,2007,47.0,
+"Rajasthan, Uttar Pradesh, Madhya Pradesh, Jammu and Kashmir provinces",Flood,Flood (General),2007,40.0,
+Jammu and Kashmir province,Extreme temperature,Cold wave,2007,66.0,
+Administrative unit not available districts (Jammu and Kashmir province),Mass movement (wet),Landslide (wet),2008,37.0,
+"Tamil Nadu, Karnataka provinces",Flood,Flood (General),2008,37.0,2000.0
+"Lakhimpu, Dhemaji, Sonitpur districts (Assam province), West Bengal, Orissa, Bihar, Gujarat, Goa, Haryana, Kerala, Karnataka, Maharastra, Madhya Pradesh, Punjab, Rajasthan, Uttar Pradesh, Tamil Nadu, Arunachal Pradesh, Uttarakhand, Jharkhand provinces",Flood,Flash flood,2008,1063.0,123000.0
+"Assam, Bihar, Gujarat, Goa, Haryana, Jharkhand, Kerala, Karnataka, Maharashtra, Madhya Pradesh, Punjab, Orissa, Rajasthan, Uttarakhand, Uttar Pradesh, Tamil Nadu, West Bengal provinces",Flood,Riverine flood,2008,,
+"Khammam, West Godavari, Krishna, Guntur districts (Andhra Pradesh province)",Flood,Riverine flood,2008,74.0,
+"Orissa, Uttar Pradesh, Himachal Pradesh provinces",Flood,Riverine flood,2008,173.0,
+"Muzaffarpur, Supaul, Patna, Katihar, Nalanda, Araria, Pashchim Champaran, Sheikhpura, Saharsa, Purnia, Saran, Begusarai, Bhagalpur, Madhepura, Vaishali, Khagaria districts (Bihar province), Assam province",Flood,Riverine flood,2008,47.0,20000.0
+"Thiruvallur, Thoothukudi, Villupuram, Ramanathapuram, Tirunelveli Kattabo, Pudukkottai, Kanniyakumari, Nagapattinam, Cuddalore, Chennai districts (Tamil Nadu province), Puducherry, Karaikal districts (Puducherry province)",Flood,Flash flood,2008,54.0,
+"Lakhimpur, Jorhat districts (Assam province), Uttar Pradesh, Bihar provinces",Flood,Riverine flood,2008,142.0,
+"Uttar Pradesh, Bihar, Haryana, Punjab, Himachal Pradesh, Uttarakhand, Jammu and Kashmir provinces",Extreme temperature,Cold wave,2008,70.0,
+Uttar Pradesh province,Storm,Sand/Dust storm,2008,111.0,25000.0
+Kendrapara district (Orissa province),Storm,Tornado,2009,15.0,
+"Orissa, West Bengal, Bihar, Uttar Pradesh, Jharkhand, Andhra Pradesh provinces",Extreme temperature,Heat wave,2009,120.0,
+"Sagar, Namkhana, Kakdwip, Pathar Pratima, Canning, Basanti, Mathurapur, Kultali villages (South 24 Parganas district, West Bengal province), Kolkata, North 24 Parganas, Haora, Hugli, Darjiling districts (West Bengal province)",Storm,Tropical cyclone,2009,96.0,
+"Bihar, Jharkhand provinces",Storm,Lightning/Thunderstorms,2009,35.0,
+Delhi province,Flood,Flash flood,2009,11.0,
+Pithoragarh district (Uttarakhand province),Mass movement (wet),Landslide (wet),2009,45.0,
+"Lal, Bahadur, Shastri, Nagar slums (Mumbai Suburban district, Maharashtra province)",Mass movement (wet),Landslide (wet),2009,10.0,
+Uttar Pradesh,Epidemic,Viral disease,2009,311.0,
+"Bihar, Orissa, West Bengal, Assam, Kerala, Gujarat, Karnataka provinces",Flood,Riverine flood,2009,992.0,220000.0
+"Belgaum, Gulbarga, Bijapur, Raichur, Dharwad, Bagalkot, Bellary, Koppal, Haveri, Bidar, Gadag, Davanegere, Uttar Kannand, Dakshin Kannad districts (Karnataka province), Kurnool, Mahbubnagar, Karimnagar, Anantapur, Krishna, Cuddapah, Guntur, Khammam, Nalgonda districts (Andhra Pradesh province), Maharashtra province",Flood,Riverine flood,2009,355.0,2150000.0
+Jainta Hills district (Meghalaya province),Flood,Riverine flood,2009,20.0,
+"Ooty, Coonoor cities (Nilgiris district, Tamil Nadu)",Flood,Riverine flood,2009,70.0,64000.0
+"Srinagar city ('72808' district, '40424' Jammu and Kashmir province), Uttar Pradesh, Himachal Pradesh, Delhi, Bihar provinces",Extreme temperature,Cold wave,2010,100.0,
+"Gujarat, Madhya Pradesh, Maharashtra provinces",Storm,Tropical cyclone,2009,20.0,300000.0
+"Darbhanga, Purnia, Sitamarhi, Saharsa, Madhubani districts (Bihar province)",Flood,Riverine flood,2009,52.0,
+Uttar Pradesh province,Storm,Severe weather,2009,32.0,
+Uttar Pradesh province,Storm,Severe weather,2009,20.0,
+"Bongaigaon, Cachar, Dhuburi, Goalpara, Golaghat, Hailakandi, Jorhat, Kamrup, Karbi Anglong, Kokrajhar, Lakhimpur, Marigaon, Nagaon, Sibsagar, Barpeta, Darrang, Dhemaji, Dibrugarh, Karimganj, Nalbari, North Cachar Hills, Sonitpur, Tinsukia districts (Assam province), Bilaspur, Chamba, Hamirpur, Kangra, Kinnaur, Kullu, Lahaul and Spiti, Mandi, Shimla, Sirmaur, Solan, Una districts (Himachal Pradesh province), Chatra, Garhwa, Latehar, Palamu, Dumka, Deoghar, Giridih, Godda, Jamtara, Pakur, Sahibganj, Bokaro, Dhanbad, Purba Singhbhum, Gumla, Hazaribag, Koderma, Lohardaga, Ranchi, Simdega, Saraikela Kharsawan, Pashchim Singhbhum districts (Jharkhand province), Bishnupur, Chandel, Churachandpur, East Imphal, West Imphal, Senapati, Tamenglong, Thoubal, Ukhrul districts (Manipur province), Dimapur, Kohima, Phek, Mokokchung, Mon, Tuensang, Wokha, Zunheboto districts (Nagaland province), Ambedkar Nagar, Ballia, Bareilly, Basti, Deoria, Farrukkhabad, Fatehpur, Ghazipur, Hardoi, Hathras, Jaunpur, Kannauj, Kanpur Dehat, Mainpuri, Mau, Rae Bareli, Sultanpur, Sant Kabir Nagar, Unnao, Agra, Shahjahanpur, Faizabad, Meerut, Mahoba, Aligarh, Jyotiba Phule Nagar, Balrampur, Etah, Rampur, Ghaziabad, Gautam Buddha Nagar, Banda, Mathura, Allahabad, Auraiya, Jalaun, Varanasi, Chandauli, Moradabad, Azamgarh, Siddharth Nagar, Badaun, Sitapur, Firozabad, Saharanpur, Chitrakoot, Etawah, Bulandshahr, Kaushambi, Pilibhit, Muzaffarnagar, Kushinagar, Jhansi, Lucknow, Bijnor, Mirzapur districts (Uttar Pradesh province), Patna, Nalanda, Gaya, Buxar, Bhojpur, Rohtas, Bhabua, Siwan, Nawada, Munger, Aurangabad, Sheikhpura, Lakhisarai, Jamui, Bhagalpur, Banka, Saran, Jehanabad, Muzaffarpur, Sitamarhi, Begusarai, Madhepura, Kishanganj, Katihar, Vaishali districts (Bihar province), Bangalore Urban, Bangalore Rural, Kolar, Tumkur, Chitradurga, Davanagere, Chamrajnagar, Mysore, Mandya, Bellary, Koppal, Raichur, Gulbarga, Bidar, Belgaum, Bagalkot, Bijapur, Gadag districts (Karnataka province), Nanded, Latur, Aurangabad, Jalna, Bid, Parbhani, Osmanabad, Hingoli, Chandrapur, Yavatmal, Wardha, Thane, Raigarh, Nandurbar, Jalgaon, Amravati, Buldana, Washim, Garhchiroli, Pune, Satara, Sangli, Solapur, Kolhapur, Nashik, Dhule, Ahmednagar, Akola districts (Maharasthra province), Rewa, Satna, Sidhi, Shahdol, Anuppur, Umaria, Dindori, Jabalpur, Katni, Balaghat, Narsinghpur, Mandla, Sagar, Panna, Tikamgarh, Chhatarpur, Raisen, Vidisha, Damoh, Sehore, Gwalior, Guna, Ashoknagar, Shivpuri, Datia, Bhind, Morena, Sheopur, Shajapur, Dewas, Ratlam, East Nimar, Burhanpur, Barwani, Jhabua districts (Madhya Pradesh province), Ajmer, Alwar, Banswara, Barmer, Bhilwara, Bikaner, Bundi, Chittaurgarh, Churu, Dausa, Dungarpur, Ganganagar, Hanumangarh, Jaipur, Jaisalmer, Jalor, Jhunjhunu, Jodhpur, Nagaur, Pali, Rajsamand, Sawai Madhopur, Sikar, Sirohi, Tonk, Udaipur districts (Rajasthan province)",Drought,Drought,2009,,
+Administrative unit not available district (Jammu and Kashmir province),Mass movement (wet),Avalanche (wet),2010,17.0,
+"Bihar, West Bengal, Assam provinces",Storm,Tropical cyclone,2010,114.0,
+"Uttar Pradesh, Bihar provinces",Storm,Storm (General),2010,54.0,
+"Krishna, Prakasam, Nellore, Guntur districts (Andhra Pradesh province), Tamil Nadu province",Storm,Tropical cyclone,2010,32.0,
+"Delhi, Haryana, Madhya Pradesh, Orissa, Rajasthan, Uttar Pradesh provinces",Extreme temperature,Heat wave,2010,250.0,
+"Ambala, Kurukshetra districts (Haryana province), Punjab, Kerala provinces",Flood,Riverine flood,2010,53.0,447000.0
+Andhra Pradesh province,Flood,Riverine flood,2010,27.0,
+Delhi province,Flood,Riverine flood,2010,11.0,
+"Leh, Cholglamsar villages (72785 district, Jammu and Kashmir province)",Flood,Flash flood,2010,196.0,
+Lakhimpur district (Assam province),Flood,Riverine flood,2010,,
+"Bihar, Jharkhand provinces",Storm,Lightning/Thunderstorms,2010,25.0,
+"Almora, Naini Tal districts (Uttarakhand province), Bihar, Uttar Pradesh provinces",Flood,Riverine flood,2010,200.0,1680000.0
+"Punjab, Haryana, Uttar Pradesh provinces",Flood,Riverine flood,2010,,
+"Chennai, Cuddalore, Nagapattinam, Pudukottai, Ramanthapuram, Thanjavur, Thiruvallur, Villupuram, Thoothukudi, Tirunelveli Kattabo districts (Tamil Nadu province)",Flood,Riverine flood,2010,203.0,22000.0
+"Nawabganj town (Gonda district, Uttar Pradesh province), Allahabad, Unnao districts (Uttar Pradesh province)",Storm,Severe weather,2010,12.0,
+Andhra Pradesh province,Storm,Tropical cyclone,2010,22.0,
+"Mushalpur, Baksa towns (Nalbari district, Assam province)",Storm,Hail,2010,28.0,
+"Delhi province, Allahabad, Pratapgarh, Jaunpur, Bara Banki districts (Uttar Pradesh province), Sundernagar city (Mandi district, Himachal Pradesh province), Bhuntar city (Kullu district, Himachal Pradesh province), Shimla, Solan districts (Himachal Pradesh province), Leh city ('40422' Jammu and Kashmir province), Qazigund city ('40425' Jammu and Kashmir province), Bihar province",Extreme temperature,Cold wave,2011,80.0,
+Uttar Pradesh province,Storm,Lightning/Thunderstorms,2011,42.0,
+West Bengal province,Flood,Riverine flood,2011,47.0,275000.0
+"Sikkim, West Bengal, Bihar, Assam, Meghalaya provinces",Earthquake,Ground movement,2011,112.0,
+"Angul, Baleshwar, Baragarh, Bhadrak, Boudh, Cuttack, Deogarh, Dhenkanal, Jajpur, Jagatsinghpur, Jharsuguda, Kendrapara, Khordha, Mayurbhanj, Nayagarh, Nuapada, Puri, Sambalpur districts (Orissa province)",Flood,Riverine flood,2011,239.0,930000.0
+"Dhemaji district (Assam province), East Garo Hills, South Garo Hills, West Garo Hills districts (Meghalaya province)",Flood,Riverine flood,2011,7.0,
+"Barpeta, Bongaigaon, Darrang, Dhemaji, Dhuburi, Golaghat, Jorhat, Karbi Anglong, Sibsagar, Lakhimpur, Nagaon, Sonitpur districts, (Assam province), Begusarai, Bhagalpur, Bhojpur, Buxar, Gopalganj, Katihar, Khagaria, Kishanganj, Lakhisarai, Madhubani, Madhepura, Muzaffarpur, Patna, Purnia, Samastipur, Saran, Saharsa, Sitamarhi, Supaul, Vaishali, Pashchim Champaran districts (Bihar province), Azamgarh, Aligarh, Ambedkar Nagar, Badaun, Ballia, Bara Banki, Bahraich, Bareilly, Bijnor, Faizabad, Farrukhabad, Ghazipur, Gonda, Gorakhpur, Hardoi, Jyotiba Phule Nagar, Kannauj, Kanpur, Kushinagar, Lakhimpur Kheri, Meerut, Muzaffarnagar, Moradabad, Pilibhit, Rampur, Shahjahanpur, Sitapur, Unnao districts (Uttar Pradesh province)",Flood,Riverine flood,2011,204.0,
+"Gonda, Balrampur, Faizabad, Bara Banki districts (Uttar Pradesh province), Rajasthan province",Flood,Riverine flood,2011,19.0,
+Orissa province,Flood,Riverine flood,2011,42.0,432000.0
+"Cuddalore district (Tamil Nadu province), Puducherry district (Puducherry province)",Storm,Tropical cyclone,2011,47.0,375625.0
+Karnataka province,Storm,Lightning/Thunderstorms,2011,17.0,
+"Uttar Pradesh, Punjab, Haryana provinces",Extreme temperature,Cold wave,2011,132.0,
+"Uttar Pradesh, Uttarakhand province",Flood,Riverine flood,2011,50.0,20000.0
+"Karimnagar, Vishakhapatnam, Guntur districts (Andhra Pradesh province)",Extreme temperature,Cold wave,2012,15.0,
+Adminitrative unit not available districts (Jammu and Kashmir province),Mass movement (dry),Avalanche (dry),2012,16.0,
+"Anjaw (70044), Lohit, Changlang, 70045, 70050, Lower Dibang Valley, East Siang, Upper Siang (70051) districts (Arunachal Pradesh province), Assam province",Flood,Riverine flood,2012,120.0,
+"Jaipur, Dhaulpur, Dausa, Tonk, Jhunjhunun, Sikar, Hanumangarh, Bikaner districts (Rajasthan province), Anjaw (70044), 70045, 70050, Lower Dibang Valley, Upper Siang (70051) districts (Arunachal Pradesh province)",Flood,Riverine flood,2012,37.0,
+"Palchan village (Kullu district, Himachal Pradesh province), Uttarkashi, Rudra Prayag, Chamoli districts (Uttarakhand province), Moradabad district (Uttar Pradesh province), Kathua village (72780 district, Jammu and Kashmir province)",Flood,Riverine flood,2012,30.0,110000.0
+"Rudra Prayag, Bageshwar districts (Uttarakhand province)",Flood,Riverine flood,2012,45.0,20000.0
+"Barpeta, Bongaigaon, Darrang, Dhemaji, Dhuburi, Dibrugarh, Goalpara, Golaghat, Jorhat, Kamrup, Lakhimpur, Marigaon, Nagaon, Nalbari, Papum Pare, Sibsagar, Sonitpur, Tinsukia districts (Assam province), Bhagalpur, Darbhanga, Katihar, Khagaria, Muzaffarpur, Patna, Siwan, Supaul districts (Bihar province), Sahibganj district (Jharkhand province), North Sikkim district (Sikkim province), Ballia, Bara Banki, Faizabad districts (Uttar Pradesh province), Murshidabad district (West Bengal province), West Siang, East Siang, Lohit, Papum Pare districts (Arunachal Pradesh province)",Flood,Riverine flood,2012,21.0,98000.0
+"Andhra Pradesh, Tamil Nadu provinces",Storm,Tropical cyclone,2012,40.0,
+"Bihar, Haryana, Himachal Pradesh, Jammu and Kashmir, Punjab, Rajasthan, Uttar Pradesh provinces",Extreme temperature,Cold wave,2012,249.0,
+Himachel Pradesh province,Flood,Riverine flood,2012,26.0,16000.0
+Uttar Pradesh province,Storm,Tornado,2013,9.0,
+Andhra Pradesh province,Storm,Tropical cyclone,2013,8.0,
+Administrive unit not available district (Jammu and Kashmir province),Earthquake,Ground movement,2013,3.0,120000.0
+"Uttarakhand, Himachal Pradesh, Uttar Pradesh, Bihar, Karnataka, Kerala, Gujarat, West Bengal provinces",Flood,Riverine flood,2013,6054.0,1100000.0
+"Adilabad, East Godavari, Guntur, Karimnagar, Khammam, Krishna, Nalgonda, Nizamabad, Prakasam, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",Extreme temperature,Heat wave,2013,557.0,
+"Sultanpur, Sitapur, Rae Bareli, Bara Banki, Faizabad, Gorakhpur, Basti, Kushinagar, Bahraich, Gonda, Shravasti districts (Uttar Pradesh province)",Flood,Riverine flood,2013,174.0,2000.0
+"Dhemaji, Tinsukia, Nagaon, Golaghat, Jorhat, Kamrup, Karimganj, Lakhimpur, Morigaon, Sibsaga, Bongaigaon, Kokrajhar districts (Assam province)",Flood,Flood (General),2013,80.0,
+"Bhopal, Hoshangabad, Seoni, Narsinghpur, Jabalpur districts (Madhya Pradesh province), Uttar Pradesh, Assam provinces",Flood,Riverine flood,2013,73.0,
+"Orissa, Andhra Pradesh, West Bengal provinces",Flood,Riverine flood,2013,72.0,260000.0
+"Orissa, Andhra Pradesh, Jharkhand, Bihar, West Bengal, Chhattisgarh provinces",Storm,Tropical cyclone,2013,47.0,633471.0
+"Bihar, Jharkhand provinces",Storm,Lightning/Thunderstorms,2013,32.0,
+"Krishna, Guntur, East Godavari, West Godavari, Vishakhapatnam districts (Andhra Pradesh province)",Storm,Tropical cyclone,2013,10.0,262000.0
+"Uttar Pradesh, Jammu and Kashmir, Uttarakhand, Delhi provinces",Extreme temperature,Cold wave,2014,24.0,
+"Doda, Bhaderwah, Thathri, Gandoh, Bhallessa villages (Kishtwar (72809) district, Jammu and Kashmir (40427) province), Kora Pani, Tangdhar villages (Kupwara (72786) district, Jumma and Kashmir (40431) province)",Storm,Blizzard/Winter storm,2014,17.0,
+"Ghaziabad district (Utar Pradesh province), Delhi, West Bengal provinces",Storm,Lightning/Thunderstorms,2014,15.0,
+Assam province,Flood,Riverine flood,2014,27.0,2000.0
+"Uttarakhand, Himachal Pradesh provinces",Flood,Riverine flood,2014,26.0,
+"Malin village (Pune district, Maharashtra province)",Mass movement (wet),Landslide (wet),2014,151.0,
+Orissa province,Flood,Riverine flood,2014,35.0,200000.0
+Jammu and Kashmir provinces,Flood,Riverine flood,2014,298.0,16000000.0
+"Tura village (West Garo Hills district, Meghalaya province), Goalpara, Kamrup districts (Assam province)",Flood,Riverine flood,2014,95.0,163000.0
+"Vishakhapatnam, Gangavaram towns (Vishakhapatnam district, Andhra Pradesh province), Baragarh, Bolangir, Boudh, Gajapati, Ganjam, Kalahandi, Kandhamal, Khordha, Koraput, Malkangiri, Nabarangpur, Nayagarh, Nuapada, Puri, Rayagada, Sonepur districts (Orissa province), Chhattisgarh province",Storm,Tropical cyclone,2014,53.0,7000000.0
+"Shravasti, Balrampur, Sitapur, Lakhimpur Kheri, Gonda, Bara Banki, Faizabad, Azamgarh districts (Uttar Pradesh province), Uttarakhand, Bihar, Assam provinces",Flood,Riverine flood,2014,94.0,
+Odisha province,Flood,Riverine flood,2014,47.0,100000.0
+Muzaffarnagar district (Uttar Pradesh province),Extreme temperature,Cold wave,2014,16.0,
+"Himachal Pradesh, Uttarakhand, Uttar Pradesh provinces",Extreme temperature,Severe winter conditions,2014,140.0,
+Uttar Pradesh province,Storm,Storm (General),2014,27.0,
+Hyderabad district (Andhra Pradesh province),Storm,Lightning/Thunderstorms,2014,7.0,
+"Chadoora village (72811 district, Jammu and Kashmir province)",Flood,Flash flood,2015,44.0,76000.0
+Tripura province,Storm,Lightning/Thunderstorms,2015,1.0,3000.0
+"Gujarat, Punjab, Himachal Pradresh, Haryana, Maharashtra, Bihar, Uttar Pradesh, Madhya Pradesh, Rajasthan, Jammu and Kashmir, Uttarakhand, West Bengal provinces",Storm,Lightning/Thunderstorms,2015,27.0,906000.0
+"Bihar, Uttar Pradesh, West Bengal, Sikkim provinces",Earthquake,Ground movement,2015,78.0,
+"Purnia, Madhepura, Madhubani, Supaul, Sitamarhi districts (Bihar province)",Storm,Severe weather,2015,100.0,160000.0
+Bihar province,Earthquake,Ground movement,2015,20.0,
+"Delhi, Andhra Pradesh, Orissa provinces",Extreme temperature,Heat wave,2015,2248.0,
+"Bhadrairuppu village (Virudhunagar district, Tamil Nadu province)",Flood,Flash flood,2015,8.0,
+"Barpeta, Sonitpur, Goalpara, Dhemaji, Lakhimpur, Tinsukia, Darrang, Nalbari, Jorhat, Kamrup, Dibrugarh, Nagaon, Bongaigaon districts (Assam province) ",Mass movement (wet),Landslide (wet),2015,3.0,
+"Amreli, Rajkot, Surat districts (Gujarat province), Maharashtra province",Flood,Riverine flood,2015,81.0,604000.0
+"Mirik, Kalimpong, Darjeeling villages (Darjiling district, West Bengal province),",Flood,Riverine flood,2015,40.0,
+"Kachchh, Patan, Banas Kantha districts (Gujarat province), Malda, Jalpaiguri districts (West Bengal province), Jorhat, Dhemaji, Lakhimpur, Dhuburi, Darrang, Goalpara, Karbi Anglong, Marigaon districts (Assam province), Manipur, Orissa, Rajasthan, Madhya Pradesh provinces",Flood,Riverine flood,2015,293.0,
+"Rajasthan, Uttar Pradesh, Jammu and Kashmir, Arunachal Pradesh, Uttarakhand, Punjab, Haryana, Himachal Pradesh provinces",Flood,Riverine flood,2015,25.0,
+Assam province,Flood,Flood (General),2015,5.0,
+"Dhemaji, Kokrajhar, Bongaigaon, Sonitpur, Barpeta, Goalpara, Marigaon, Cachar, Lakhimpur, Jorhat, Tinsukia, Darrang, Nalbari, Kamrup, Dibrugarh, Sibsagar districts (Assam province) ",Flood,Flood (General),2015,18.0,
+"Sonitpur, Lakhimpur, Kokrajhar, Dhemaji districts (Assam province), Arunachal Pradesh province ",Flood,Flood (General),2015,,
+"Deogarh, Nabarangpur, Malkangiri districts (Orissa province), Andhra Pradesh province",Storm,Lightning/Thunderstorms,2015,32.0,
+"Administrative unit not available districts (Jammu and Kashmir province), Delhi, Punjab provinces",Earthquake,Ground movement,2015,,
+"Chittoor, Cuddapah, Prakasam, Nellore districts (Andhra Pradesh province), Chennai, Cuddalore, Nagapattinam, Kancheepuram, Thiruvallur, Villupuram districts (Tamil Nadu province), Puducherry province",Flood,Flood (General),2015,325.0,2200000.0
+Andhra Pradesh province,Storm,Lightning/Thunderstorms,2015,23.0,
+Maharashtra province,Storm,Lightning/Thunderstorms,2015,29.0,
+"Tamil Nadu, Rajasthan, Jharkhand, Assam, Andhra Pradesh, Himachal Pradesh, Nagaland; Maharashtra, Bihar, Madhya Pradesh, Chhattisgarh, Telangana, Jharkand, Odisha states",Drought,Drought,2015,,3000000.0
+"Guwahati city (Kamrup district, Assam province), East Imphal, West Imphal, Senapati, Thoubal, Bishnupur, Tamenglong districts (Manipur province)",Earthquake,Ground movement,2016,8.0,75000.0
+Jammu and Kashmir (Administrative unit not available) (Siachen glacier),Mass movement (wet),Avalanche (wet),2016,10.0,
+"Andhra Pradesh, Rajasthan, Orissa, Bihar, Jharkhand, Tamil Nadu, Uttar Pradesh provinces",Extreme temperature,Heat wave,2016,300.0,
+"Arunachal Pradesh, Assam, Nagaland provinces",Flood,Flood (General),2016,18.0,150000.0
+"Uttarakhand province (including Almora, Pauri Garhwal, Chamoli districts)",Wildfire,Forest fire,2016,7.0,
+Uttarakhand province,Mass movement (wet),Landslide (wet),2016,10.0,
+"Muzaffarpur, Patna, Siwan districts (Bihar province)",Storm,Lightning/Thunderstorms,2016,11.0,
+"Bihar, Uttar Pradesh, Jharkhand, Madhya Pradesh provinces",Storm,Lightning/Thunderstorms,2016,93.0,
+"Chamoli, Pithoragahr districts (Uttarakhand province), Assam, Arunachal Pradesh provinces",Flood,Flash flood,2016,61.0,100000.0
+"Lakhimpur, Golaghat, Jorhat, Barpeta, Bongaigaon, Goalpara, Dhubri, Marigaon, Darrang, Nalbari districts (Assam province)",Flood,Flash flood,2016,50.0,150000.0
+"Biha, Uttar Pradeshr province (Varanasi, Allahabad, Ghazipur, Ballia, Banda, Jalaun, Ghaziabad, Patna, Bhagalpur, Vaishali, Buxar, Bhojpur, Sonepur, Saran, Begusarai, Samastipur, Lakhisarai, Khagaria, Munger, Nalanda, Katihar, Purnea, Katihar, Supual, Kisanganj, Madhepura, Gopalganj, Saharsa, Araria, East Champaran, Muzafferpur, Kishanganj, Purnea, Araria, Supaul, Bhagalpur, Darbhanga)",Flood,Flood (General),2016,254.0,350000.0
+"Bhopal, Hoshangabad, Rewa, Sagar, Shajapur, Jabalpur, Satna, Harda, Panna, Vidisha, Raisen, Mandla, Tikamgarh, Seoni, Damoh, Sehore, Agar-Malwa districts (Madhya Pradesh province)",Flood,Flood (General),2016,184.0,160000.0
+"Maharashtra (Nashik, Raigad (Mahad), Thane (Bhiwandi), Ratnagiri, Pune, Satara, Kolhapur), Gujarat (Valsad, Chhota Udepur (Vadodara), Navsari and Surat)",Flood,Flood (General),2016,37.0,
+"Andhra Pradesh province, Telangana",Flood,Flood (General),2016,28.0,589000.0
+Chennai district (Tamil Nadu province); Andhra Pradesh,Storm,Tropical cyclone,2016,24.0,1000000.0
+"Jorhat, Golaghat (Assam State)",Flood,Flood (General),2016,34.0,
+"Sonamanrg (Ganderbal district), Gurez Valleys (Jammu and Kashmir state)",Mass movement (wet),Avalanche (wet),2017,28.0,
+"Andhra Pradesh, Telangana, Maharashtra, Odisha (Orissa)",Extreme temperature,Heat wave,2017,264.0,
+"Manipur, Mizoram",Storm,Tropical cyclone,2017,,
+"Lakhimpur, Karimganj, Darrang districts (Assam), Nagaland, Manipur, Jharkhand",Flood,Flood (General),2017,6.0,
+Gujarat,Flood,Flood (General),2017,31.0,
+"Vaishali, Saran, Patna, Gaya, Sasaram (Rohta), Araria, Nalanda districts (Bihar)",Storm,Lightning/Thunderstorms,2017,23.0,
+"Laptap Village, Papumpare district (Arunachal Pradesh)",Mass movement (wet),Landslide (wet),2017,22.0,
+"Lakhimpur, Bangaigaon, Jorhat, Golaghat, Cachar, Dhemjai, Biswanath, Karimganj, Barpeta, Karbi Anglong, Sonitpur, Darrang, Hojai (Sub Division), Bhuragaon (Sub Division), Majuli, Nagaon, Nalbari, Sivasagar, Morigaon, Chirang, Dibrugarh, Dhubri, Kokrajhar, South Salmara, Charaideo, Goalpara districts (Assam)",Flood,Riverine flood,2017,75.0,
+"Imphal West, Imphal East, Thoubal, Bishnupur (Manipur)",Flood,Flood (General),2017,,
+"Banaskantha, Valsad, Navsari, Surat, Sabarkantha, Patan (Gujarat), Barmer, Jalore, Udaipur, Sirohi, Pali (Rajasthan), Kolkata (West Bengal)",Flood,Flood (General),2017,284.0,250000.0
+"Araria, Jogbani (Bihar); Uttar Pradesh, West Bengal",Flood,Flood (General),2017,514.0,1567000.0
+"Mumbai (Dadar, Khar, Bandra, Lalbaug, Kalina, Sion, Byculla, Matunga, Wadala, Parel, Khar-Danda, Pali Hill, Carter Road, Bandra, Ghatkopar, Bhandup, Mulund, and Santacruz), Thane (Maharashtra)",Flood,Flash flood,2017,14.0,300000.0
+"Kotropi, Mandi district (Himachal Pradesh)",Mass movement (wet),Landslide (wet),2017,46.0,
+Chenai (Tamil Nadu),Flood,Flash flood,2017,21.0,
+"Kerala (Thiruvananthapuram, Kozhikode,Ernakulam),Tamil Nadu (Kanyakumari-Munchirai, Thiruvattar,Killiyur, Kurunthancode, Rajakkamangalam-, Tirunelveli, Tuticorin districts), Andhra Pradesh (Chittoor and Nellore), Lakshadweep Islands",Storm,Tropical cyclone,2017,884.0,
+"Uttar Pradesh (Siddharthnagar, Balarampur, Bahraich, Shravasti, Maharajganj, Barabanki, Lakhimpur Kheri, Gorakhpur, Muzaffarnagar, Gonda, Basti, Mirzapur, Khiri, Deoria, Sitapur, Bijnore, Faizabad, Pilibhit, Farrukhabad, Mau, Kushinagar, Badaun, Ambedkar nagar, Azamgarh, Santkabir Nagar, Ghazipur, Balia)",Flood,Flood (General),2017,101.0,
+"Jamui, Champaran, Vaishali, Samastipur, Bihar",Storm,Lightning/Thunderstorms,2017,29.0,
+Maldah (West Bengal),Storm,Lightning/Thunderstorms,2017,4.0,
+New Delhi,Extreme temperature,Cold wave,2018,44.0,
+Tamil nadu,Wildfire,Forest fire,2018,17.0,
+"Uttar Pradesh, Rajasthan",Storm,Lightning/Thunderstorms,2018,42.0,100000.0
+Kolkata,Storm,Lightning/Thunderstorms,2018,18.0,100000.0
+"Uttar Pradesh, Bengale occidental, Bihar, Andhra Pradesh",Storm,Lightning/Thunderstorms,2018,95.0,
+"Rajasthan, Uttar Pradesh",Storm,Sand/Dust storm,2018,143.0,24000.0
+"Uttar Pradesh, Kerala, Maharashtra, Mizoram, Rajasthan",Storm,Lightning/Thunderstorms,2018,42.0,
+"Uttar Pradesh, West Bengal, Assam, Tripura, Manipur, Mizoram",Storm,Storm (General),2018,61.0,50000.0
+"Assam, Maharashtra, Gujarat",Flood,Flood (General),2018,52.0,
+"Uttar Pradesh, West Bengal, Tripura",Storm,Lightning/Thunderstorms,2018,32.0,50000.0
+Tripura state,Flood,Flash flood,2018,15.0,10000.0
+"Uttar Pradesh, Bihar, Jharkhand",Storm,Lightning/Thunderstorms,2018,54.0,25000.0
+Dakshina Kannada and Udupi districts,Flood,Flood (General),2018,12.0,2500.0
+"Uttar Pradesh, Rajasthan",Flood,Flood (General),2018,33.0,
+Odisha state,Flood,Flood (General),2018,20.0,
+"Thrissur, Chengannur (Kerala state); West Bengal, Odisha, Assam, Nagaland, Uttar Pradesh, Himachal Pradesh, Maharashtra states",Flood,Flash flood,2018,504.0,2852480.0
+"Biswanath, Udalguri, Golaghat, Sivassagar/Charaideo, Barpeta, Lakhimpu, Dhemaji, Darrang (Assam, West Bengal)",Flood,Flood (General),2018,3.0,
+Uttar Pradesh,Flood,Flood (General),2018,46.0,
+"Punjab, Haryana states",Flood,Flood (General),2018,25.0,
+"Mandasa, Godalpur, Gajapati, Ganjam, Rayagada, Puri, Kandhamal (Andhra Pradesh & Odisha)",Storm,Tropical cyclone,2018,85.0,920000.0
+"Tamil Nadu, Nagapattinam, Tiruvarur, Thanjavur, Pudukottai, Dindigul and Ramnad, Chennai, Sivaganga, Theni, Madurai districts",Storm,Tropical cyclone,2018,45.0,775000.0
+"Andhra Pradesh, Odisha",Storm,Tropical cyclone,2018,8.0,100000.0
+"Karnataka, Maharashtra states",Drought,Drought,2018,,1100000.0
+"Gujarat, Rajasthan, Madhya Pradesh, Maharashtra",Storm,Storm (General),2019,50.0,
+Odisha province,Storm,Tropical cyclone,2019,50.0,1810000.0
+"Patna, Gaya, Bhagalpur cities; Aurangabad, Nawada districts (Bihar)",Extreme temperature,Heat wave,2019,90.0,
+"Muzaffarpur, Vaishali, Sheohar, East Champaran districts (Bihar)",Epidemic,Viral disease,2019,121.0,
+"Karnataka, Maharashtra, Madhya Pradesh, Rajasthan, Uttar Pradesh states",Extreme temperature,Heat wave,2019,22.0,
+"Mumbai, Pune, Ratnagiri Districts (Maharashtra State)",Flood,Flood (General),2019,52.0,
+"Odisha, Hyderabad",Storm,Lightning/Thunderstorms,2019,10.0,
+"Uttar Pradesh, Maharashtra, and Bihar",Storm,Lightning/Thunderstorms,2019,50.0,
+"Sitamarhi, Sheohar, East Champaran, Muzaffarpur, Madhubani, Darbhanga, Supaul, Araria, Sahersa , Katihar, Purnia, Kishanganj districts (Bihar); Dhemaji, Lakhimpur, Biswanath, Barpeta, Chirang, Golaghat Jorhat, Sonitpur, Darrang, Nalbari, Bongaigaon, Morigaon, Nagaon, Majuli, Baksa, Kokrajhar, Dhubri, South Salmara, Goalpara, Kamrup, Hojai, Sivsagar, Tinsukia, Cachar, KarbiAnglrng, West Karbi-Anglong, Hailakandi, Dibrugarh districts (Assam); Maharashtra, Kerala, Rajasthan, West Bengal, Karnataka, Uttarakand, Himachal Pradesh, Punjab, Uttar Pradesh, Odisha",Flood,Flood (General),2019,1900.0,10000000.0
+"West Bengal, Kerala, Odisha, Maharashtra",Flood,Flood (General),2019,32.0,
+Rajendranagar area (Bihar),Epidemic,Viral disease,2019,,
+"Belagavi, Gadag, Koppal districts (Karnataka); Kerala, Tamil Nadu states",Flood,Flood (General),2019,12.0,
+"South Assam, Meghalaya, Tripura, Mizoram, West Begal, Odisha state",Storm,Tropical cyclone,2019,12.0,
+"Coimbatore, Cuddalore, Nagapattinam, Thoothukkudi Districts (Tamil Nadu); Pudducherry",Flood,Flood (General),2019,27.0,
+Jammu & Kashmir state,Storm,Blizzard/Winter storm,2020,11.0,
+Uttar Pradesh State,Flood,Flood (General),2020,29.0,10000.0
+"Lakhimpur, Sontipur, Darrang, Goalpara (Assam state); Sikkim state",Flood,Flood (General),2020,1.0,
+"Balasore (Baleshwar) , Bhadrak, Kendrapada and Jagatsinghpur (Odisha); East Midunapur, West Midhunapur, North24 Parganas, South24 Parganas, Nadia, Howrah, Kolkata and Hoogli (West Bengal)",Storm,Tropical cyclone,2020,90.0,13500000.0
+"Raigad, Pune Districts (Maharashtra State)",Storm,Tropical cyclone,2020,6.0,820000.0
+"Barak Valley Region (southern Assam State, north-east India); Hailakandi ; Cachar; Karimganj Districts",Mass movement (wet),Landslide (wet),2020,21.0,
+Jammu region,Flood,Flood (General),2020,,
+"Assam, Bihar, Gujarat, Chhattisgarh, Kerala, Karnataka, Madhya Pradesh, Odisha, Uttar Pradesh, West Bengal, Arunachal Pradesh, Maharashtraa.",Flood,Flood (General),2020,1922.0,7500000.0
+Idukki district (Kerala state),Mass movement (wet),Landslide (wet),2020,70.0,
+"Hyderabad, Telangana, Andhra Pradesh, Karnataka, South Odisha states ",Flood,Flood (General),2020,152.0,4000000.0
+Tamil Nadu and Puducherry,Storm,Tropical cyclone,2020,14.0,600000.0
+Uttarakhand state,Glacial lake outburst flood,Glacial lake outburst flood,2021,234.0,210000.0
+"Kamrup and Nagaon (Sonitpur District, northern Assam State)",Earthquake,Ground movement,2021,2.0,
+Chamoli District (Uttarakhand State),Glacial lake outburst flood,Glacial lake outburst flood,2021,16.0,
+"Kerala, Karnataka, Goa, Maharashtra, Gujarat, Rajasthan, Delhi, Haryana, Uttar Pradesh and Uttarakhand",Storm,Tropical cyclone,2021,198.0,1400000.0
+"Bengale occidental, Odisha",Storm,Tropical cyclone,2021,19.0,3000000.0
+"Bihar, Uttar Pradesh, Gujarat, Kerala, Karnataka, Uttarakhand, Maharashtra, Chhattisgarh, West Bengal, and Tripura states",Flood,Flood (General),2021,59.0,100000.0
+"Bongaigaon, Dhemaji and Dibrugarh districts (Assam state)",Flood,Flood (General),2021,,
+Bombay,Mass movement (wet),Landslide (wet),2021,33.0,
+"Pune, Raigada, Satara and Ratnagiri (Maharasthra); Goa, Karnataka, Jharkhand, Bengale, Himachal Pradesh, Uttarakand states",Flood,Flood (General),2021,1282.0,3100000.0
+"Himachal Pradesh, Union Territories of Jammu and Kashmir and Ladakh",Flood,Flash flood,2021,37.0,
+"Nigul Sari Village (Kinnaur District, Himachal Pradesh State)",Mass movement (wet),Landslide (wet),2021,35.0,
+"Rajkot, Jamnagar, Porbandar, Valsad, Junagadh districts (Gujarat state)",Flood,Flood (General),2021,7.0,
+"Srikakulam, Vizianagaram, Visakhapatnam, Kalingapatnam , Nizamabad, Hyderabad districts (Andhra Pradesh); Koraput, Malkangiri districts (Odisha); Aurangabad, Latur, Osmanabad, Parbhani, Nanded, Beed, Jalna, Hingoli districts (Maharashtra)",Storm,Tropical cyclone,2021,20.0,
+"Koraput and Malkangiri (Odisha); Srikakulam, Vizianagaram, Visakhapatnam districts (Andhra Pradesh); Telengana, Maharashtra, Gujarta",Storm,Tropical cyclone,2021,7.0,
+"Idukki, Kottayam, Pathanamthitta, Kollam, Achankovil, Thiruvananthapuram(Kerala state)",Flood,Flood (General),2021,39.0,
+Nainital (Uttarakhand state),Flood,Flood (General),2021,57.0,
+Tamil Nadu,Flood,Flood (General),2021,14.0,
+"Chittoor, Kadapa, Anantapur, Nellore districts (Andhra Pradesh)",Flood,Flood (General),2021,62.0,
+"Andhra Pradesh, Odisha, south-western West Bengal, Tripura",Storm,Tropical cyclone,2021,5.0,
+Assam State,Storm,Severe weather,2022,20.0,
+"Maharashtra State, West Rajasthan",Extreme temperature,Heat wave,2022,25.0,
+"Itanagar distrci (Arunchal Pradesh); Dima Hasao, Cachar, Udalguri District (Assam); East Khasi Hills, Ri-Bhoi Districts (Meghalaya); Nagaland; Bihar; Himachal Pradesh; Madhya Pradesh; Gujarat; Maharasthra ",Flood,Flood (General),2022,2035.0,4200000.0
+"Tapul village (Noney District, Manipur State); Mumbai",Mass movement (wet),Landslide (wet),2022,67.0,
+"Himachal Pradesh, Uttarakhand and Jharkhand States",Flood,Flood (General),2022,63.0,
+Uttar Pradesh,Flood,Flood (General),2022,,
+Tamil Nadu,Storm,Tropical cyclone,2022,,
+"Khandwa, Sagar, Satna, Raisen, Narmadapura, Dhar, Ratlam, Ashok Nagar and Damoh (Madhya Pradesh State)",Storm,Severe weather,2023,16.0,
+Maharashtra state,Extreme temperature,Heat wave,2023,11.0,
+"Mizoram, Tripura, and Manipur states",Storm,Tropical cyclone,2023,,
+"Uttar Pradesh, Bihar, Tripura, Odisha ",Extreme temperature,Heat wave,2023,179.0,
+"Nalbari, Baksa, Lakhimpur, Bajali, Barpet distrcits (Assam);Sikkim",Flood,Flood (General),2023,,
+"Barmer, Jalore, Sirohi, Pali, and Rajmasand (Rajasthan); Gujarat ",Storm,Tropical cyclone,2023,7.0,
+"Mandi, Solan and Hamirpur districts (Himachal Pradesh); Uttarakhand, Punjab, NewDelhi, Haryana",Flood,Flash flood,2023,62.0,3000.0
+"Himachal Pradesh, Uttarakhand, Delhi, Bihar, Madyah Pradesh, Maharashtra, Chhattisgarh, Gujarat, Punjab, Karnataka, Assam",Flood,Flood (General),2023,1529.0,
+"Irshalwadi Village (Raigad District, western Maharashtra State)",Mass movement (wet),Landslide (wet),2023,28.0,
+Mulugu District (western Telangana),Flood,Flood (General),2023,23.0,
+Himachal Pradesh and Uttarakhand states,Mass movement (wet),Landslide (wet),2023,10.0,
+Mizoram State,Mass movement (wet),Landslide (wet),2023,26.0,
+"Khurda, Balangir, Angul, Boudh, Dhenkanal, Gajapati, Jagatsinghpur, and Puri (Odisha State)",Storm,Lightning/Thunderstorms,2023,12.0,
+"Sikkim state Gangtok, Mangan and Pakyong (Bengal state)",Glacial lake outburst flood,Glacial lake outburst flood,2023,178.0,
+" Andra Pradesh, Telangana, Tamil Nadu States ",Storm,Tropical cyclone,2023,20.0,125000.0
+Gujarat state,Storm,Severe weather,2023,24.0,
+"Thoothukudi, Tirunelveli, Kanniyakumari and Tenkasi Districts (Tamil Nadu state)",Flood,Flood (General),2023,10.0,
+"Unakoti, Sepahijala, Dhalai, South, West, Khowai and Gomati Districts (Tripura state); Una District (Himachal Pradesh State)",Storm,Severe weather,2024,4.0,
+"New Delhi; Rajasthan, Bihar, Gujarat, West Rajasthan, Punjab, Haryana, Chandigarh",Extreme temperature,Heat wave,2024,11.0,
+"Bishnupur, Imphal West, Imphal East, Thoubal, Kakching, Tengnoupal, Kangpokpi, Noney, and Churachandpur districts (Manipur state)",Storm,Hail,2024,1.0,
+"Aizawl (Mizoram state); Bengal, Assam, Nagaland, Meghalaya states; West Bengal, Telangana",Storm,Tropical cyclone,2024,51.0,
+Assam and Meghalaya states,Flood,Flash flood,2024,48.0,
+" Pratapgarh, Sultanpur, Chandauli, Mainpuri, Prayagraj, Auraiya, Deoria, Hathras, Varanasi and Siddharthnagar districts (Uttar Pradesh); Assam",Flood,Flood (General),2024,125.0,
+"Mandi, Kullu, Shimla districts (Himachal Pradesh)",Flood,Flood (General),2024,46.0,
+Tripura state,Flood,Flash flood,2024,11.0,
+"Dipu Dara village (Singtam municipality, Gangtok district, Sikkim state) ",Mass movement (wet),Landslide (wet),2024,10.0,

@@ -1,0 +1,74 @@
+I'm getting "Address already in use" error when trying to restart my Flask server in Google Colab. The old Flask process is still running on port 5000.
+
+Problem:
+- Flask server is running on port 5000
+- When I try to restart with updated code, I get "Address already in use"
+- The old process is blocking the new one
+- ngrok is tunneling to the old server, not the new one
+
+Solution needed:
+1. Kill any existing Flask processes on port 5000
+2. Start Flask on a clean port
+3. Update ngrok to tunnel to the correct port
+4. Ensure the new code is actually running
+
+Please provide Colab code that:
+
+```python
+# 1. Kill existing Flask processes
+import os
+import signal
+import psutil
+
+# Find and kill processes on port 5000
+for proc in psutil.process_iter(['pid', 'name', 'connections']):
+    try:
+        for conn in proc.connections():
+            if conn.laddr.port == 5000:
+                print(f"Killing process {proc.pid} on port 5000")
+                os.kill(proc.pid, signal.SIGKILL)
+    except:
+        pass
+
+# 2. Kill ngrok processes
+!pkill ngrok
+
+# 3. Wait a moment
+import time
+time.sleep(2)
+
+# 4. Start Flask on port 5000 (now free)
+from threading import Thread
+from pyngrok import ngrok
+
+def run_flask():
+    app.run(host='0.0.0.0', port=5000, debug=False, use_reloader=False)
+
+# Start Flask in background thread
+flask_thread = Thread(target=run_flask, daemon=True)
+flask_thread.start()
+
+# Wait for Flask to start
+time.sleep(3)
+
+# 5. Start ngrok tunnel
+public_url = ngrok.connect(5000)
+print(f"\n✅ Flask running on port 5000")
+print(f"✅ Public URL: {public_url}")
+print(f"\nUpdate your React .env file:")
+print(f"REACT_APP_API_URL={public_url}")
+```
+
+Alternative approach if above doesn't work:
+- Use a different port (5001) for Flask
+- Update ngrok to tunnel to 5001
+- Provide the new URL
+
+Make sure the code:
+- Actually kills old processes
+- Waits for port to be free
+- Starts Flask cleanly
+- Creates working ngrok tunnel
+- Prints the correct URL to use in React
+
+Provide complete working code for Google Colab.

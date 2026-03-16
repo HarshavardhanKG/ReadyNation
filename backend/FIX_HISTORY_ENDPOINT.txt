@@ -1,0 +1,112 @@
+Fix my Flask /get_location_data endpoint to properly return historical disaster data from my dataset.
+
+CURRENT ENDPOINT CODE:
+```python
+@app.route("/get_location_data", methods=["POST"])
+def get_location_data():
+    try:
+        data = request.json
+        if not data:
+            return jsonify({"message": "No data provided"}), 400
+        
+        location = data.get("location")
+        if not location:
+            return jsonify({"message": "Location required"}), 400
+
+        if le_location is None:
+            return jsonify({"message": "Location encoder not available"}), 503
+        
+        # Try to encode location
+        try:
+            encoded = le_location.transform([location])[0]
+        except:
+            return jsonify({"message": f"Location '{location}' not found in database"}), 404
+        
+        result = df[df["location_encoded"] == encoded].drop(columns=["location_encoded"])
+        
+        if result.empty:
+            return jsonify({"message": f"No historical data for '{location}'"}), 404
+        
+        # Convert to records then replace NaN with None for JSON compatibility
+        raw = result.to_dict(orient="records")
+        cleaned = []
+        for rec in raw:
+            cleaned_rec = {}
+            for k, v in rec.items():
+                if pd.isna(v):
+                    cleaned_rec[k] = None
+                else:
+                    cleaned_rec[k] = v
+            cleaned.append(cleaned_rec)
+        return jsonify(cleaned)
+
+    except Exception as e:
+        print(f"Error in get_location_data: {e}")
+        return jsonify({"message": "Internal server error"}), 500
+```
+
+PROBLEM:
+- Endpoint returns 404 "Location not found in database"
+- The pickle files (disaster_knowledge.pkl and location_encoder.pkl) may not be properly created
+- Location names might not match between frontend and dataset
+
+DATASET INFO:
+- File: dataset/disasterIND.csv or dataset/clean_disaster_data.csv
+- Expected columns: Location/Admin1, Start Year, Disaster Type, Disaster Subtype, Total Deaths
+- Locations are Indian states/cities (e.g., Mumbai, Delhi, Chennai, Tamil Nadu, Maharashtra)
+
+REQUIREMENTS:
+
+1. First, create a script to properly prepare the dataset:
+   - Load CSV file
+   - Identify location column (try: Location, Admin1, State, location, admin1, state)
+   - Clean location names (strip whitespace, title case)
+   - Create LabelEncoder for locations
+   - Save df as disaster_knowledge.pkl
+   - Save encoder as location_encoder.pkl
+   - Print all available locations
+
+2. Fix the endpoint to:
+   - Handle case-insensitive location matching
+   - Try multiple location name formats (e.g., "mumbai" → "Mumbai", "tamil nadu" → "Tamil Nadu")
+   - Return proper JSON with these fields:
+     * Start Year
+     * Disaster Type
+     * Disaster Subtype
+     * Total Deaths
+   - Handle missing data gracefully
+
+3. Add a test endpoint to list all available locations:
+```python
+@app.route("/locations", methods=["GET"])
+def get_locations():
+    if le_location is None:
+        return jsonify({"message": "No locations available"}), 503
+    return jsonify({"locations": list(le_location.classes_)})
+```
+
+EXPECTED RESPONSE FORMAT:
+```json
+[
+  {
+    "Start Year": 2020,
+    "Disaster Type": "Flood",
+    "Disaster Subtype": "Flash flood",
+    "Total Deaths": 45
+  },
+  {
+    "Start Year": 2019,
+    "Disaster Type": "Cyclone",
+    "Disaster Subtype": "Tropical cyclone",
+    "Total Deaths": 12
+  }
+]
+```
+
+Provide:
+1. Complete setup_dataset.py script to create pickle files
+2. Updated /get_location_data endpoint with better error handling
+3. /locations endpoint to list available locations
+4. Test code to verify it works
+
+Make sure the location matching is flexible and handles common variations in location names.

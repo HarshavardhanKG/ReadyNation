@@ -1,0 +1,39 @@
+I need to properly connect my disaster history dataset to display historical disasters by location in my Flask backend.
+
+Current Setup:
+- I have a CSV file: dataset/disasterIND.csv or dataset/clean_disaster_data.csv
+- I have models/disaster_knowledge.pkl and models/location_encoder.pkl
+- My /get_location_data endpoint should return historical disasters for a given location
+
+Requirements:
+
+1. Load the disaster dataset CSV file properly
+2. Create a location encoder that maps location names to encoded values
+3. Save both as pickle files (disaster_knowledge.pkl and location_encoder.pkl)
+4. Make sure the /get_location_data endpoint can:
+   - Accept a location name (e.g., "Mumbai", "Delhi", "Chennai")
+   - Return all historical disasters for that location
+   - Include columns: Start Year, Disaster Type, Disaster Subtype, Total Deaths
+
+Expected CSV columns might include:
+- Location/Admin1 (location name)
+- Start Year
+- Disaster Type
+- Disaster Subtype  
+- Total Deaths
+- Or similar column names
+
+Please provide Python code to:
+1. Load the CSV file
+2. Clean and prepare the data
+3. Create a LabelEncoder for locations
+4. Save both the dataframe and encoder as pickle files
+5. Ensure the /get_location_data endpoint works correctly
+
+The code should handle:
+- Missing values
+- Different location name formats (case-insensitive matching)
+- Return empty list if location not found
+- Return JSON-serializable data
+
+Show me the complete data preparation script that I can run once to create the pickle files.
