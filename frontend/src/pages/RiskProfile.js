@@ -100,9 +100,31 @@ export default function RiskProfile() {
         {loading ? (
           <div className="loading-card">Loading disaster history...</div>
         ) : error ? (
-          <div className="error-card">{error}</div>
+          <div className="error-card">
+            <h3>⚠️ Location Data Unavailable</h3>
+            <p>{error}</p>
+            <div className="error-suggestions">
+              <h4>💡 Try these locations instead:</h4>
+              <ul>
+                <li><strong>Tamil Nadu:</strong> "Tamil Nadu" or "Chennai, Coimbatore, Cuddalore districts (Tamil Nadu province)"</li>
+                <li><strong>Andhra Pradesh:</strong> "Andhra Pradesh" or "Adilabad, Cuddapah, East Godavari, Guntur, Hyderabad, Karimnagar, Khammam, Krishna, Kurnool, Mahbubnagar, Medak, Nalgonda, Nellore, Nizamabad, Prakasam, Rangareddi, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)"</li>
+                <li><strong>Uttar Pradesh:</strong> "Uttar Pradesh" or "Pratapgarh, Sultanpur, Chandauli, Mainpuri, Prayagraj, Auraiya, Deoria, Hathras, Varanasi and Siddharthnagar districts (Uttar Pradesh)"</li>
+                <li><strong>Multi-state:</strong> "Andra Pradesh, Telangana, Tamil Nadu States" or "(1) Rajasthan, Gujarat - (2) North-East, West Bengal, Assam"</li>
+              </ul>
+              <p><em>Note: The dataset contains historical disaster data organized by states and district combinations. Use the exact format shown above for best results.</em></p>
+            </div>
+          </div>
         ) : disasterHistory.length === 0 ? (
-          <div className="no-data-card">No disaster history found for this location</div>
+          <div className="no-data-card">
+            <h3>No disaster history found for this location</h3>
+            <p>Try searching for:</p>
+            <ul>
+              <li>State names: Tamil Nadu, Andhra Pradesh, Uttar Pradesh</li>
+              <li>District combinations: "Chennai, Coimbatore, Cuddalore districts (Tamil Nadu province)"</li>
+              <li>Multi-state regions: "Andra Pradesh, Telangana, Tamil Nadu States"</li>
+            </ul>
+            <p>Use the exact format as shown in the suggestions for best results.</p>
+          </div>
         ) : (
           <>
             <div className="stats-overview">

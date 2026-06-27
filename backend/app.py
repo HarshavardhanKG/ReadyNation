@@ -120,19 +120,64 @@ def get_location_data():
         print(f"Searching for location: '{location}'")
         
         # Try exact match first (case-insensitive)
+        matched_location = None
         try:
             encoded = le_location.transform([location])[0]
             matched_location = location
         except:
-            # Fuzzy match - find states containing the search term
-            matching_locations = [loc for loc in le_location.classes_ if location.lower() in loc.lower()]
+                # Enhanced fuzzy matching for better location detection
+            search_terms = location.lower().split(',')
+            search_terms = [term.strip() for term in search_terms]
+            
+            # Try different matching strategies
+            matching_locations = []
+            
+            # Strategy 1: Look for locations containing any of the search terms
+            for term in search_terms:
+                matches = [loc for loc in le_location.classes_ if term in loc.lower()]
+                matching_locations.extend(matches)
+            
+            # Strategy 2: If no matches, try partial matches
+            if not matching_locations:
+                for term in search_terms:
+                    if len(term) >= 3:  # Only search for terms with 3+ characters
+                        matches = [loc for loc in le_location.classes_ if any(word.startswith(term) for word in loc.lower().split())]
+                        matching_locations.extend(matches)
+            
+            # Remove duplicates and prioritize better matches
+            matching_locations = list(set(matching_locations))
             
             if not matching_locations:
-                available = ", ".join(list(le_location.classes_)[:5])
-                return jsonify({"message": f"No data for '{location}'. Try: {available}, etc."}), 404
+                # Provide helpful suggestions based on available locations
+                tamil_nadu_locations = [loc for loc in le_location.classes_ if 'tamil' in loc.lower()]
+                andhra_locations = [loc for loc in le_location.classes_ if 'andhra' in loc.lower()]
+                uttar_pradesh_locations = [loc for loc in le_location.classes_ if 'uttar pradesh' in loc.lower()]
+                
+                suggestions = []
+                if tamil_nadu_locations:
+                    suggestions.extend(tamil_nadu_locations[:3])
+                if andhra_locations:
+                    suggestions.extend(andhra_locations[:3])
+                if uttar_pradesh_locations:
+                    suggestions.extend(uttar_pradesh_locations[:3])
+                
+                if not suggestions:
+                    suggestions = list(le_location.classes_)[:5]
+                
+                suggestion_text = ", ".join(suggestions[:5])
+                return jsonify({"message": f"No data for '{location}'. Try: {suggestion_text}, etc."}), 404
             
-            matched_location = matching_locations[0]
-            encoded = le_location.transform([matched_location])[0]
+            # Prioritize exact state matches or more specific matches
+            state_matches = [loc for loc in matching_locations if location.lower() in loc.lower()]
+            if state_matches:
+                matched_location = state_matches[0]
+            else:
+                matched_location = matching_locations[0]
+            
+            try:
+                encoded = le_location.transform([matched_location])[0]
+            except:
+                return jsonify({"message": f"Unable to process location '{location}'"}), 404
         
         print(f"Matched '{location}' to '{matched_location}'")
         
@@ -143,7 +188,7 @@ def get_location_data():
             result = df[df["location_encoded"] == encoded]
         
         if result.empty:
-            return jsonify({"message": f"No historical disasters for '{location}'"}), 404
+            return jsonify({"message": f"No historical disasters found for '{matched_location}'"}), 404
         
         # Drop encoded column if exists
         if 'location_encoded' in result.columns:
@@ -173,10 +218,42 @@ def get_location_data():
 
 @app.route("/locations", methods=["GET"])
 def get_locations():
-    """List all available locations in the dataset"""
+    """List all available locations in the dataset with better organization"""
     if le_location is None:
         return jsonify({"message": "No locations available"}), 503
-    return jsonify({"locations": sorted(list(le_location.classes_))})
+    
+    all_locations = list(le_location.classes_)
+    
+    # Organize locations by type for better user experience
+    state_locations = []
+    district_locations = []
+    city_locations = []
+    multi_state_locations = []
+    
+    for loc in all_locations:
+        loc_lower = loc.lower()
+        if 'districts' in loc_lower or 'district' in loc_lower:
+            district_locations.append(loc)
+        elif 'states' in loc_lower or 'provinces' in loc_lower:
+            multi_state_locations.append(loc)
+        elif any(state in loc_lower for state in ['tamil nadu', 'andhra pradesh', 'uttar pradesh', 'west bengal', 'bihar', 'assam', 'gujarat', 'maharashtra', 'karnataka', 'kerala', 'rajasthan', 'madhya pradesh', 'orissa', 'punjab', 'haryana']):
+            if len(loc.split(',')) == 1 and 'province' not in loc_lower:
+                state_locations.append(loc)
+            else:
+                district_locations.append(loc)
+        else:
+            city_locations.append(loc)
+    
+    return jsonify({
+        "locations": sorted(all_locations),
+        "organized": {
+            "states": sorted(state_locations)[:20],  # Limit for response size
+            "districts": sorted(district_locations)[:30],
+            "cities": sorted(city_locations)[:20],
+            "multi_state": sorted(multi_state_locations)[:20]
+        },
+        "total_count": len(all_locations)
+    })
 
 
 @app.route("/validate-location", methods=["GET"])

@@ -133,6 +133,73 @@
   color: #ef4444;
 }
 
+.error-card h3 {
+  color: #ef4444;
+  margin-bottom: 1rem;
+}
+
+.error-suggestions {
+  text-align: left;
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: #0f172a;
+  border-radius: 12px;
+  border-left: 4px solid #f59e0b;
+}
+
+.error-suggestions h4 {
+  color: #f59e0b;
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+}
+
+.error-suggestions ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.error-suggestions li {
+  margin-bottom: 1rem;
+  padding: 0.75rem;
+  background: #1e293b;
+  border-radius: 8px;
+  border-left: 3px solid #6366f1;
+}
+
+.error-suggestions li strong {
+  color: #6366f1;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.error-suggestions li:last-child {
+  margin-bottom: 0;
+}
+
+.error-suggestions p {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: #94a3b8;
+  font-style: italic;
+}
+
+.no-data-card h3 {
+  color: #f59e0b;
+  margin-bottom: 1rem;
+}
+
+.no-data-card ul {
+  text-align: left;
+  margin: 1rem 0;
+  padding-left: 2rem;
+}
+
+.no-data-card li {
+  margin-bottom: 0.5rem;
+  color: #94a3b8;
+}
+
 .history-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
