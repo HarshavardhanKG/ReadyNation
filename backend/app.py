@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 import pickle
 import pandas as pd
 import os
+import json
 from flask_cors import CORS
 from weather import get_weather, get_weather_history
 from prediction import predict_disaster_risk
@@ -23,17 +24,25 @@ except Exception as e:
     except:
         df = pd.DataFrame()
 
+# Load location lookup from plain JSON (no sklearn needed)
 try:
-    le_location = pickle.load(open("models/state_encoder.pkl", "rb"))
-    print(f"[OK] Loaded state encoder with {len(le_location.classes_)} states")
-    print(f"[INFO] Available states: {list(le_location.classes_)[:10]}...")
+    with open("models/location_lookup.json", "r") as f:
+        _loc_data = json.load(f)
+    _loc_classes = _loc_data["classes"]
+    _loc_mapping = _loc_data["mapping"]
+
+    class _LocationLookup:
+        def __init__(self, classes, mapping):
+            self.classes_ = classes
+            self._mapping = mapping
+        def transform(self, values):
+            return [self._mapping[v] for v in values]
+
+    le_location = _LocationLookup(_loc_classes, _loc_mapping)
+    print(f"[OK] Loaded location lookup with {len(_loc_classes)} locations")
 except Exception as e:
-    print(f"[WARNING] Could not load state encoder: {e}")
-    try:
-        le_location = pickle.load(open("models/location_encoder.pkl", "rb"))
-        print(f"[OK] Loaded location encoder")
-    except:
-        le_location = None
+    print(f"[WARNING] Could not load location lookup: {e}")
+    le_location = None
 
 
 @app.route("/register", methods=["POST"])
