@@ -5,5 +5,4 @@ flask-cors
 requests
 python-dotenv
 xgboost
-tensorflow
 numpy
