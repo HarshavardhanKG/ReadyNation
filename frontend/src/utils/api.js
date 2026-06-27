@@ -1,6 +1,6 @@
 // API utility with proper error handling for Flask + ngrok
 
-const API_BASE = process.env.REACT_APP_API_URL || "http://localhost:5000";
+const API_BASE = process.env.REACT_APP_API_URL || (process.env.NODE_ENV === 'production' ? '/api' : 'http://localhost:5000');
 
 /**
  * Safe fetch wrapper that handles ngrok warning pages and JSON parsing

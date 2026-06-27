@@ -26,7 +26,7 @@ export default function RiskProfile() {
       setError("");
       try {
         const location = user.fullLocation ? user.fullLocation.split(",")[1].trim() : user.location;
-        const apiBase = process.env.REACT_APP_API_URL || "http://localhost:5000";
+        const apiBase = process.env.REACT_APP_API_URL || (process.env.NODE_ENV === 'production' ? '/api' : 'http://localhost:5000');
         const res = await fetch(`${apiBase}/get_location_data`, {
           method: 'POST',
           headers: {
