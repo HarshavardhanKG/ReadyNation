@@ -1,78 +1,13 @@
 """
-Simple ML-based disaster prediction model.
-Uses location, temperature, humidity, wind to predict disaster risk.
+Simple heuristic-based disaster risk prediction.
 """
-import pickle
-import os
-import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
-import numpy as np
-
-MODEL_PATH = "models/disaster_predictor.pkl"
-SCALER_PATH = "models/disaster_scaler.pkl"
-
-# Risk levels mapping
 RISK_LEVELS = {
     0: {"level": "LOW", "color": "#4CAF50", "emoji": "✅"},
     1: {"level": "MEDIUM", "color": "#FFC107", "emoji": "⚠"},
     2: {"level": "HIGH", "color": "#FF9800", "emoji": "⚠⚠"},
     3: {"level": "CRITICAL", "color": "#F44336", "emoji": "🚨"}
 }
-
-
-def train_prediction_model(df):
-    """Train disaster prediction model from disaster dataset."""
-    try:
-        # Features: extract weather-like patterns from disaster data
-        # For demo: we'll use location + year-based trend
-        
-        X = []
-        y = []
-        
-        for idx, row in df.iterrows():
-            # Mock features (in production: use actual weather data)
-            # Feature 1: location_encoded, Feature 2: start_year trend, Feature 3: death count indicator
-            location_encoded = row.get("location_encoded", 0)
-            year = row.get("Start Year", 2000)
-            deaths = row.get("Total Deaths", 0)
-            
-            X.append([location_encoded, year, deaths])
-            # Risk: 0=LOW, 1=MEDIUM, 2=HIGH, 3=CRITICAL
-            # Simple heuristic: higher deaths = higher risk
-            if deaths < 20:
-                y.append(0)
-            elif deaths < 60:
-                y.append(1)
-            elif deaths < 100:
-                y.append(2)
-            else:
-                y.append(3)
-        
-        X = np.array(X)
-        y = np.array(y)
-        
-        # Train classifier
-        model = RandomForestClassifier(n_estimators=10, random_state=42, max_depth=5)
-        model.fit(X, y)
-        
-        os.makedirs("models", exist_ok=True)
-        pickle.dump(model, open(MODEL_PATH, "wb"))
-        return model
-    except Exception as e:
-        print(f"Error training model: {e}")
-        return None
-
-
-def load_prediction_model():
-    """Load trained model from disk."""
-    try:
-        if os.path.exists(MODEL_PATH):
-            return pickle.load(open(MODEL_PATH, "rb"))
-    except Exception as e:
-        print(f"Error loading model: {e}")
-    return None
-
-
+# Risk levels mapping
 def predict_disaster_risk(location_encoded: int, temp: float, humidity: int, wind: float) -> dict:
     """Predict disaster risk based on weather and location.
     
